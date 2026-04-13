@@ -1,0 +1,2401 @@
+subject,task,trial,window,rating,stress_level
+1,Relaxation,1,1,0,Relaxed
+1,Relaxation,1,2,0,Relaxed
+1,Relaxation,1,3,0,Relaxed
+1,Relaxation,1,4,0,Relaxed
+1,Relaxation,1,5,0,Relaxed
+1,Relaxation,2,1,0,Relaxed
+1,Relaxation,2,2,0,Relaxed
+1,Relaxation,2,3,0,Relaxed
+1,Relaxation,2,4,0,Relaxed
+1,Relaxation,2,5,0,Relaxed
+1,Relaxation,3,1,0,Relaxed
+1,Relaxation,3,2,0,Relaxed
+1,Relaxation,3,3,0,Relaxed
+1,Relaxation,3,4,0,Relaxed
+1,Relaxation,3,5,0,Relaxed
+1,Stroop,1,1,3,Relaxed
+1,Stroop,1,2,3,Relaxed
+1,Stroop,1,3,3,Relaxed
+1,Stroop,1,4,3,Relaxed
+1,Stroop,1,5,3,Relaxed
+1,Stroop,2,1,2,Relaxed
+1,Stroop,2,2,2,Relaxed
+1,Stroop,2,3,2,Relaxed
+1,Stroop,2,4,2,Relaxed
+1,Stroop,2,5,2,Relaxed
+1,Stroop,3,1,4,Low Stress
+1,Stroop,3,2,4,Low Stress
+1,Stroop,3,3,4,Low Stress
+1,Stroop,3,4,4,Low Stress
+1,Stroop,3,5,4,Low Stress
+1,Mirror_Image,1,1,3,Relaxed
+1,Mirror_Image,1,2,3,Relaxed
+1,Mirror_Image,1,3,3,Relaxed
+1,Mirror_Image,1,4,3,Relaxed
+1,Mirror_Image,1,5,3,Relaxed
+1,Mirror_Image,2,1,5,Low Stress
+1,Mirror_Image,2,2,5,Low Stress
+1,Mirror_Image,2,3,5,Low Stress
+1,Mirror_Image,2,4,5,Low Stress
+1,Mirror_Image,2,5,5,Low Stress
+1,Mirror_Image,3,1,7,High Stress
+1,Mirror_Image,3,2,7,High Stress
+1,Mirror_Image,3,3,7,High Stress
+1,Mirror_Image,3,4,7,High Stress
+1,Mirror_Image,3,5,7,High Stress
+1,Arithmetic,1,1,6,Low Stress
+1,Arithmetic,1,2,6,Low Stress
+1,Arithmetic,1,3,6,Low Stress
+1,Arithmetic,1,4,6,Low Stress
+1,Arithmetic,1,5,6,Low Stress
+1,Arithmetic,2,1,7,High Stress
+1,Arithmetic,2,2,7,High Stress
+1,Arithmetic,2,3,7,High Stress
+1,Arithmetic,2,4,7,High Stress
+1,Arithmetic,2,5,7,High Stress
+1,Arithmetic,3,1,4,Low Stress
+1,Arithmetic,3,2,4,Low Stress
+1,Arithmetic,3,3,4,Low Stress
+1,Arithmetic,3,4,4,Low Stress
+1,Arithmetic,3,5,4,Low Stress
+2,Relaxation,1,1,0,Relaxed
+2,Relaxation,1,2,0,Relaxed
+2,Relaxation,1,3,0,Relaxed
+2,Relaxation,1,4,0,Relaxed
+2,Relaxation,1,5,0,Relaxed
+2,Relaxation,2,1,0,Relaxed
+2,Relaxation,2,2,0,Relaxed
+2,Relaxation,2,3,0,Relaxed
+2,Relaxation,2,4,0,Relaxed
+2,Relaxation,2,5,0,Relaxed
+2,Relaxation,3,1,0,Relaxed
+2,Relaxation,3,2,0,Relaxed
+2,Relaxation,3,3,0,Relaxed
+2,Relaxation,3,4,0,Relaxed
+2,Relaxation,3,5,0,Relaxed
+2,Stroop,1,1,5,Low Stress
+2,Stroop,1,2,5,Low Stress
+2,Stroop,1,3,5,Low Stress
+2,Stroop,1,4,5,Low Stress
+2,Stroop,1,5,5,Low Stress
+2,Stroop,2,1,4,Low Stress
+2,Stroop,2,2,4,Low Stress
+2,Stroop,2,3,4,Low Stress
+2,Stroop,2,4,4,Low Stress
+2,Stroop,2,5,4,Low Stress
+2,Stroop,3,1,3,Relaxed
+2,Stroop,3,2,3,Relaxed
+2,Stroop,3,3,3,Relaxed
+2,Stroop,3,4,3,Relaxed
+2,Stroop,3,5,3,Relaxed
+2,Mirror_Image,1,1,4,Low Stress
+2,Mirror_Image,1,2,4,Low Stress
+2,Mirror_Image,1,3,4,Low Stress
+2,Mirror_Image,1,4,4,Low Stress
+2,Mirror_Image,1,5,4,Low Stress
+2,Mirror_Image,2,1,4,Low Stress
+2,Mirror_Image,2,2,4,Low Stress
+2,Mirror_Image,2,3,4,Low Stress
+2,Mirror_Image,2,4,4,Low Stress
+2,Mirror_Image,2,5,4,Low Stress
+2,Mirror_Image,3,1,5,Low Stress
+2,Mirror_Image,3,2,5,Low Stress
+2,Mirror_Image,3,3,5,Low Stress
+2,Mirror_Image,3,4,5,Low Stress
+2,Mirror_Image,3,5,5,Low Stress
+2,Arithmetic,1,1,3,Relaxed
+2,Arithmetic,1,2,3,Relaxed
+2,Arithmetic,1,3,3,Relaxed
+2,Arithmetic,1,4,3,Relaxed
+2,Arithmetic,1,5,3,Relaxed
+2,Arithmetic,2,1,3,Relaxed
+2,Arithmetic,2,2,3,Relaxed
+2,Arithmetic,2,3,3,Relaxed
+2,Arithmetic,2,4,3,Relaxed
+2,Arithmetic,2,5,3,Relaxed
+2,Arithmetic,3,1,7,High Stress
+2,Arithmetic,3,2,7,High Stress
+2,Arithmetic,3,3,7,High Stress
+2,Arithmetic,3,4,7,High Stress
+2,Arithmetic,3,5,7,High Stress
+3,Relaxation,1,1,0,Relaxed
+3,Relaxation,1,2,0,Relaxed
+3,Relaxation,1,3,0,Relaxed
+3,Relaxation,1,4,0,Relaxed
+3,Relaxation,1,5,0,Relaxed
+3,Relaxation,2,1,0,Relaxed
+3,Relaxation,2,2,0,Relaxed
+3,Relaxation,2,3,0,Relaxed
+3,Relaxation,2,4,0,Relaxed
+3,Relaxation,2,5,0,Relaxed
+3,Relaxation,3,1,0,Relaxed
+3,Relaxation,3,2,0,Relaxed
+3,Relaxation,3,3,0,Relaxed
+3,Relaxation,3,4,0,Relaxed
+3,Relaxation,3,5,0,Relaxed
+3,Stroop,1,1,4,Low Stress
+3,Stroop,1,2,4,Low Stress
+3,Stroop,1,3,4,Low Stress
+3,Stroop,1,4,4,Low Stress
+3,Stroop,1,5,4,Low Stress
+3,Stroop,2,1,5,Low Stress
+3,Stroop,2,2,5,Low Stress
+3,Stroop,2,3,5,Low Stress
+3,Stroop,2,4,5,Low Stress
+3,Stroop,2,5,5,Low Stress
+3,Stroop,3,1,5,Low Stress
+3,Stroop,3,2,5,Low Stress
+3,Stroop,3,3,5,Low Stress
+3,Stroop,3,4,5,Low Stress
+3,Stroop,3,5,5,Low Stress
+3,Mirror_Image,1,1,3,Relaxed
+3,Mirror_Image,1,2,3,Relaxed
+3,Mirror_Image,1,3,3,Relaxed
+3,Mirror_Image,1,4,3,Relaxed
+3,Mirror_Image,1,5,3,Relaxed
+3,Mirror_Image,2,1,5,Low Stress
+3,Mirror_Image,2,2,5,Low Stress
+3,Mirror_Image,2,3,5,Low Stress
+3,Mirror_Image,2,4,5,Low Stress
+3,Mirror_Image,2,5,5,Low Stress
+3,Mirror_Image,3,1,7,High Stress
+3,Mirror_Image,3,2,7,High Stress
+3,Mirror_Image,3,3,7,High Stress
+3,Mirror_Image,3,4,7,High Stress
+3,Mirror_Image,3,5,7,High Stress
+3,Arithmetic,1,1,5,Low Stress
+3,Arithmetic,1,2,5,Low Stress
+3,Arithmetic,1,3,5,Low Stress
+3,Arithmetic,1,4,5,Low Stress
+3,Arithmetic,1,5,5,Low Stress
+3,Arithmetic,2,1,3,Relaxed
+3,Arithmetic,2,2,3,Relaxed
+3,Arithmetic,2,3,3,Relaxed
+3,Arithmetic,2,4,3,Relaxed
+3,Arithmetic,2,5,3,Relaxed
+3,Arithmetic,3,1,8,High Stress
+3,Arithmetic,3,2,8,High Stress
+3,Arithmetic,3,3,8,High Stress
+3,Arithmetic,3,4,8,High Stress
+3,Arithmetic,3,5,8,High Stress
+4,Relaxation,1,1,0,Relaxed
+4,Relaxation,1,2,0,Relaxed
+4,Relaxation,1,3,0,Relaxed
+4,Relaxation,1,4,0,Relaxed
+4,Relaxation,1,5,0,Relaxed
+4,Relaxation,2,1,0,Relaxed
+4,Relaxation,2,2,0,Relaxed
+4,Relaxation,2,3,0,Relaxed
+4,Relaxation,2,4,0,Relaxed
+4,Relaxation,2,5,0,Relaxed
+4,Relaxation,3,1,0,Relaxed
+4,Relaxation,3,2,0,Relaxed
+4,Relaxation,3,3,0,Relaxed
+4,Relaxation,3,4,0,Relaxed
+4,Relaxation,3,5,0,Relaxed
+4,Stroop,1,1,4,Low Stress
+4,Stroop,1,2,4,Low Stress
+4,Stroop,1,3,4,Low Stress
+4,Stroop,1,4,4,Low Stress
+4,Stroop,1,5,4,Low Stress
+4,Stroop,2,1,2,Relaxed
+4,Stroop,2,2,2,Relaxed
+4,Stroop,2,3,2,Relaxed
+4,Stroop,2,4,2,Relaxed
+4,Stroop,2,5,2,Relaxed
+4,Stroop,3,1,5,Low Stress
+4,Stroop,3,2,5,Low Stress
+4,Stroop,3,3,5,Low Stress
+4,Stroop,3,4,5,Low Stress
+4,Stroop,3,5,5,Low Stress
+4,Mirror_Image,1,1,3,Relaxed
+4,Mirror_Image,1,2,3,Relaxed
+4,Mirror_Image,1,3,3,Relaxed
+4,Mirror_Image,1,4,3,Relaxed
+4,Mirror_Image,1,5,3,Relaxed
+4,Mirror_Image,2,1,5,Low Stress
+4,Mirror_Image,2,2,5,Low Stress
+4,Mirror_Image,2,3,5,Low Stress
+4,Mirror_Image,2,4,5,Low Stress
+4,Mirror_Image,2,5,5,Low Stress
+4,Mirror_Image,3,1,5,Low Stress
+4,Mirror_Image,3,2,5,Low Stress
+4,Mirror_Image,3,3,5,Low Stress
+4,Mirror_Image,3,4,5,Low Stress
+4,Mirror_Image,3,5,5,Low Stress
+4,Arithmetic,1,1,5,Low Stress
+4,Arithmetic,1,2,5,Low Stress
+4,Arithmetic,1,3,5,Low Stress
+4,Arithmetic,1,4,5,Low Stress
+4,Arithmetic,1,5,5,Low Stress
+4,Arithmetic,2,1,3,Relaxed
+4,Arithmetic,2,2,3,Relaxed
+4,Arithmetic,2,3,3,Relaxed
+4,Arithmetic,2,4,3,Relaxed
+4,Arithmetic,2,5,3,Relaxed
+4,Arithmetic,3,1,7,High Stress
+4,Arithmetic,3,2,7,High Stress
+4,Arithmetic,3,3,7,High Stress
+4,Arithmetic,3,4,7,High Stress
+4,Arithmetic,3,5,7,High Stress
+5,Relaxation,1,1,0,Relaxed
+5,Relaxation,1,2,0,Relaxed
+5,Relaxation,1,3,0,Relaxed
+5,Relaxation,1,4,0,Relaxed
+5,Relaxation,1,5,0,Relaxed
+5,Relaxation,2,1,0,Relaxed
+5,Relaxation,2,2,0,Relaxed
+5,Relaxation,2,3,0,Relaxed
+5,Relaxation,2,4,0,Relaxed
+5,Relaxation,2,5,0,Relaxed
+5,Relaxation,3,1,0,Relaxed
+5,Relaxation,3,2,0,Relaxed
+5,Relaxation,3,3,0,Relaxed
+5,Relaxation,3,4,0,Relaxed
+5,Relaxation,3,5,0,Relaxed
+5,Stroop,1,1,6,Low Stress
+5,Stroop,1,2,6,Low Stress
+5,Stroop,1,3,6,Low Stress
+5,Stroop,1,4,6,Low Stress
+5,Stroop,1,5,6,Low Stress
+5,Stroop,2,1,2,Relaxed
+5,Stroop,2,2,2,Relaxed
+5,Stroop,2,3,2,Relaxed
+5,Stroop,2,4,2,Relaxed
+5,Stroop,2,5,2,Relaxed
+5,Stroop,3,1,3,Relaxed
+5,Stroop,3,2,3,Relaxed
+5,Stroop,3,3,3,Relaxed
+5,Stroop,3,4,3,Relaxed
+5,Stroop,3,5,3,Relaxed
+5,Mirror_Image,1,1,6,Low Stress
+5,Mirror_Image,1,2,6,Low Stress
+5,Mirror_Image,1,3,6,Low Stress
+5,Mirror_Image,1,4,6,Low Stress
+5,Mirror_Image,1,5,6,Low Stress
+5,Mirror_Image,2,1,3,Relaxed
+5,Mirror_Image,2,2,3,Relaxed
+5,Mirror_Image,2,3,3,Relaxed
+5,Mirror_Image,2,4,3,Relaxed
+5,Mirror_Image,2,5,3,Relaxed
+5,Mirror_Image,3,1,7,High Stress
+5,Mirror_Image,3,2,7,High Stress
+5,Mirror_Image,3,3,7,High Stress
+5,Mirror_Image,3,4,7,High Stress
+5,Mirror_Image,3,5,7,High Stress
+5,Arithmetic,1,1,6,Low Stress
+5,Arithmetic,1,2,6,Low Stress
+5,Arithmetic,1,3,6,Low Stress
+5,Arithmetic,1,4,6,Low Stress
+5,Arithmetic,1,5,6,Low Stress
+5,Arithmetic,2,1,5,Low Stress
+5,Arithmetic,2,2,5,Low Stress
+5,Arithmetic,2,3,5,Low Stress
+5,Arithmetic,2,4,5,Low Stress
+5,Arithmetic,2,5,5,Low Stress
+5,Arithmetic,3,1,5,Low Stress
+5,Arithmetic,3,2,5,Low Stress
+5,Arithmetic,3,3,5,Low Stress
+5,Arithmetic,3,4,5,Low Stress
+5,Arithmetic,3,5,5,Low Stress
+6,Relaxation,1,1,0,Relaxed
+6,Relaxation,1,2,0,Relaxed
+6,Relaxation,1,3,0,Relaxed
+6,Relaxation,1,4,0,Relaxed
+6,Relaxation,1,5,0,Relaxed
+6,Relaxation,2,1,0,Relaxed
+6,Relaxation,2,2,0,Relaxed
+6,Relaxation,2,3,0,Relaxed
+6,Relaxation,2,4,0,Relaxed
+6,Relaxation,2,5,0,Relaxed
+6,Relaxation,3,1,0,Relaxed
+6,Relaxation,3,2,0,Relaxed
+6,Relaxation,3,3,0,Relaxed
+6,Relaxation,3,4,0,Relaxed
+6,Relaxation,3,5,0,Relaxed
+6,Stroop,1,1,2,Relaxed
+6,Stroop,1,2,2,Relaxed
+6,Stroop,1,3,2,Relaxed
+6,Stroop,1,4,2,Relaxed
+6,Stroop,1,5,2,Relaxed
+6,Stroop,2,1,3,Relaxed
+6,Stroop,2,2,3,Relaxed
+6,Stroop,2,3,3,Relaxed
+6,Stroop,2,4,3,Relaxed
+6,Stroop,2,5,3,Relaxed
+6,Stroop,3,1,5,Low Stress
+6,Stroop,3,2,5,Low Stress
+6,Stroop,3,3,5,Low Stress
+6,Stroop,3,4,5,Low Stress
+6,Stroop,3,5,5,Low Stress
+6,Mirror_Image,1,1,4,Low Stress
+6,Mirror_Image,1,2,4,Low Stress
+6,Mirror_Image,1,3,4,Low Stress
+6,Mirror_Image,1,4,4,Low Stress
+6,Mirror_Image,1,5,4,Low Stress
+6,Mirror_Image,2,1,3,Relaxed
+6,Mirror_Image,2,2,3,Relaxed
+6,Mirror_Image,2,3,3,Relaxed
+6,Mirror_Image,2,4,3,Relaxed
+6,Mirror_Image,2,5,3,Relaxed
+6,Mirror_Image,3,1,6,Low Stress
+6,Mirror_Image,3,2,6,Low Stress
+6,Mirror_Image,3,3,6,Low Stress
+6,Mirror_Image,3,4,6,Low Stress
+6,Mirror_Image,3,5,6,Low Stress
+6,Arithmetic,1,1,5,Low Stress
+6,Arithmetic,1,2,5,Low Stress
+6,Arithmetic,1,3,5,Low Stress
+6,Arithmetic,1,4,5,Low Stress
+6,Arithmetic,1,5,5,Low Stress
+6,Arithmetic,2,1,4,Low Stress
+6,Arithmetic,2,2,4,Low Stress
+6,Arithmetic,2,3,4,Low Stress
+6,Arithmetic,2,4,4,Low Stress
+6,Arithmetic,2,5,4,Low Stress
+6,Arithmetic,3,1,8,High Stress
+6,Arithmetic,3,2,8,High Stress
+6,Arithmetic,3,3,8,High Stress
+6,Arithmetic,3,4,8,High Stress
+6,Arithmetic,3,5,8,High Stress
+7,Relaxation,1,1,0,Relaxed
+7,Relaxation,1,2,0,Relaxed
+7,Relaxation,1,3,0,Relaxed
+7,Relaxation,1,4,0,Relaxed
+7,Relaxation,1,5,0,Relaxed
+7,Relaxation,2,1,0,Relaxed
+7,Relaxation,2,2,0,Relaxed
+7,Relaxation,2,3,0,Relaxed
+7,Relaxation,2,4,0,Relaxed
+7,Relaxation,2,5,0,Relaxed
+7,Relaxation,3,1,0,Relaxed
+7,Relaxation,3,2,0,Relaxed
+7,Relaxation,3,3,0,Relaxed
+7,Relaxation,3,4,0,Relaxed
+7,Relaxation,3,5,0,Relaxed
+7,Stroop,1,1,4,Low Stress
+7,Stroop,1,2,4,Low Stress
+7,Stroop,1,3,4,Low Stress
+7,Stroop,1,4,4,Low Stress
+7,Stroop,1,5,4,Low Stress
+7,Stroop,2,1,3,Relaxed
+7,Stroop,2,2,3,Relaxed
+7,Stroop,2,3,3,Relaxed
+7,Stroop,2,4,3,Relaxed
+7,Stroop,2,5,3,Relaxed
+7,Stroop,3,1,6,Low Stress
+7,Stroop,3,2,6,Low Stress
+7,Stroop,3,3,6,Low Stress
+7,Stroop,3,4,6,Low Stress
+7,Stroop,3,5,6,Low Stress
+7,Mirror_Image,1,1,5,Low Stress
+7,Mirror_Image,1,2,5,Low Stress
+7,Mirror_Image,1,3,5,Low Stress
+7,Mirror_Image,1,4,5,Low Stress
+7,Mirror_Image,1,5,5,Low Stress
+7,Mirror_Image,2,1,3,Relaxed
+7,Mirror_Image,2,2,3,Relaxed
+7,Mirror_Image,2,3,3,Relaxed
+7,Mirror_Image,2,4,3,Relaxed
+7,Mirror_Image,2,5,3,Relaxed
+7,Mirror_Image,3,1,3,Relaxed
+7,Mirror_Image,3,2,3,Relaxed
+7,Mirror_Image,3,3,3,Relaxed
+7,Mirror_Image,3,4,3,Relaxed
+7,Mirror_Image,3,5,3,Relaxed
+7,Arithmetic,1,1,5,Low Stress
+7,Arithmetic,1,2,5,Low Stress
+7,Arithmetic,1,3,5,Low Stress
+7,Arithmetic,1,4,5,Low Stress
+7,Arithmetic,1,5,5,Low Stress
+7,Arithmetic,2,1,3,Relaxed
+7,Arithmetic,2,2,3,Relaxed
+7,Arithmetic,2,3,3,Relaxed
+7,Arithmetic,2,4,3,Relaxed
+7,Arithmetic,2,5,3,Relaxed
+7,Arithmetic,3,1,6,Low Stress
+7,Arithmetic,3,2,6,Low Stress
+7,Arithmetic,3,3,6,Low Stress
+7,Arithmetic,3,4,6,Low Stress
+7,Arithmetic,3,5,6,Low Stress
+8,Relaxation,1,1,0,Relaxed
+8,Relaxation,1,2,0,Relaxed
+8,Relaxation,1,3,0,Relaxed
+8,Relaxation,1,4,0,Relaxed
+8,Relaxation,1,5,0,Relaxed
+8,Relaxation,2,1,0,Relaxed
+8,Relaxation,2,2,0,Relaxed
+8,Relaxation,2,3,0,Relaxed
+8,Relaxation,2,4,0,Relaxed
+8,Relaxation,2,5,0,Relaxed
+8,Relaxation,3,1,0,Relaxed
+8,Relaxation,3,2,0,Relaxed
+8,Relaxation,3,3,0,Relaxed
+8,Relaxation,3,4,0,Relaxed
+8,Relaxation,3,5,0,Relaxed
+8,Stroop,1,1,4,Low Stress
+8,Stroop,1,2,4,Low Stress
+8,Stroop,1,3,4,Low Stress
+8,Stroop,1,4,4,Low Stress
+8,Stroop,1,5,4,Low Stress
+8,Stroop,2,1,3,Relaxed
+8,Stroop,2,2,3,Relaxed
+8,Stroop,2,3,3,Relaxed
+8,Stroop,2,4,3,Relaxed
+8,Stroop,2,5,3,Relaxed
+8,Stroop,3,1,3,Relaxed
+8,Stroop,3,2,3,Relaxed
+8,Stroop,3,3,3,Relaxed
+8,Stroop,3,4,3,Relaxed
+8,Stroop,3,5,3,Relaxed
+8,Mirror_Image,1,1,5,Low Stress
+8,Mirror_Image,1,2,5,Low Stress
+8,Mirror_Image,1,3,5,Low Stress
+8,Mirror_Image,1,4,5,Low Stress
+8,Mirror_Image,1,5,5,Low Stress
+8,Mirror_Image,2,1,6,Low Stress
+8,Mirror_Image,2,2,6,Low Stress
+8,Mirror_Image,2,3,6,Low Stress
+8,Mirror_Image,2,4,6,Low Stress
+8,Mirror_Image,2,5,6,Low Stress
+8,Mirror_Image,3,1,6,Low Stress
+8,Mirror_Image,3,2,6,Low Stress
+8,Mirror_Image,3,3,6,Low Stress
+8,Mirror_Image,3,4,6,Low Stress
+8,Mirror_Image,3,5,6,Low Stress
+8,Arithmetic,1,1,3,Relaxed
+8,Arithmetic,1,2,3,Relaxed
+8,Arithmetic,1,3,3,Relaxed
+8,Arithmetic,1,4,3,Relaxed
+8,Arithmetic,1,5,3,Relaxed
+8,Arithmetic,2,1,6,Low Stress
+8,Arithmetic,2,2,6,Low Stress
+8,Arithmetic,2,3,6,Low Stress
+8,Arithmetic,2,4,6,Low Stress
+8,Arithmetic,2,5,6,Low Stress
+8,Arithmetic,3,1,5,Low Stress
+8,Arithmetic,3,2,5,Low Stress
+8,Arithmetic,3,3,5,Low Stress
+8,Arithmetic,3,4,5,Low Stress
+8,Arithmetic,3,5,5,Low Stress
+9,Relaxation,1,1,0,Relaxed
+9,Relaxation,1,2,0,Relaxed
+9,Relaxation,1,3,0,Relaxed
+9,Relaxation,1,4,0,Relaxed
+9,Relaxation,1,5,0,Relaxed
+9,Relaxation,2,1,0,Relaxed
+9,Relaxation,2,2,0,Relaxed
+9,Relaxation,2,3,0,Relaxed
+9,Relaxation,2,4,0,Relaxed
+9,Relaxation,2,5,0,Relaxed
+9,Relaxation,3,1,0,Relaxed
+9,Relaxation,3,2,0,Relaxed
+9,Relaxation,3,3,0,Relaxed
+9,Relaxation,3,4,0,Relaxed
+9,Relaxation,3,5,0,Relaxed
+9,Stroop,1,1,4,Low Stress
+9,Stroop,1,2,4,Low Stress
+9,Stroop,1,3,4,Low Stress
+9,Stroop,1,4,4,Low Stress
+9,Stroop,1,5,4,Low Stress
+9,Stroop,2,1,4,Low Stress
+9,Stroop,2,2,4,Low Stress
+9,Stroop,2,3,4,Low Stress
+9,Stroop,2,4,4,Low Stress
+9,Stroop,2,5,4,Low Stress
+9,Stroop,3,1,6,Low Stress
+9,Stroop,3,2,6,Low Stress
+9,Stroop,3,3,6,Low Stress
+9,Stroop,3,4,6,Low Stress
+9,Stroop,3,5,6,Low Stress
+9,Mirror_Image,1,1,6,Low Stress
+9,Mirror_Image,1,2,6,Low Stress
+9,Mirror_Image,1,3,6,Low Stress
+9,Mirror_Image,1,4,6,Low Stress
+9,Mirror_Image,1,5,6,Low Stress
+9,Mirror_Image,2,1,4,Low Stress
+9,Mirror_Image,2,2,4,Low Stress
+9,Mirror_Image,2,3,4,Low Stress
+9,Mirror_Image,2,4,4,Low Stress
+9,Mirror_Image,2,5,4,Low Stress
+9,Mirror_Image,3,1,4,Low Stress
+9,Mirror_Image,3,2,4,Low Stress
+9,Mirror_Image,3,3,4,Low Stress
+9,Mirror_Image,3,4,4,Low Stress
+9,Mirror_Image,3,5,4,Low Stress
+9,Arithmetic,1,1,3,Relaxed
+9,Arithmetic,1,2,3,Relaxed
+9,Arithmetic,1,3,3,Relaxed
+9,Arithmetic,1,4,3,Relaxed
+9,Arithmetic,1,5,3,Relaxed
+9,Arithmetic,2,1,4,Low Stress
+9,Arithmetic,2,2,4,Low Stress
+9,Arithmetic,2,3,4,Low Stress
+9,Arithmetic,2,4,4,Low Stress
+9,Arithmetic,2,5,4,Low Stress
+9,Arithmetic,3,1,7,High Stress
+9,Arithmetic,3,2,7,High Stress
+9,Arithmetic,3,3,7,High Stress
+9,Arithmetic,3,4,7,High Stress
+9,Arithmetic,3,5,7,High Stress
+10,Relaxation,1,1,0,Relaxed
+10,Relaxation,1,2,0,Relaxed
+10,Relaxation,1,3,0,Relaxed
+10,Relaxation,1,4,0,Relaxed
+10,Relaxation,1,5,0,Relaxed
+10,Relaxation,2,1,0,Relaxed
+10,Relaxation,2,2,0,Relaxed
+10,Relaxation,2,3,0,Relaxed
+10,Relaxation,2,4,0,Relaxed
+10,Relaxation,2,5,0,Relaxed
+10,Relaxation,3,1,0,Relaxed
+10,Relaxation,3,2,0,Relaxed
+10,Relaxation,3,3,0,Relaxed
+10,Relaxation,3,4,0,Relaxed
+10,Relaxation,3,5,0,Relaxed
+10,Stroop,1,1,4,Low Stress
+10,Stroop,1,2,4,Low Stress
+10,Stroop,1,3,4,Low Stress
+10,Stroop,1,4,4,Low Stress
+10,Stroop,1,5,4,Low Stress
+10,Stroop,2,1,3,Relaxed
+10,Stroop,2,2,3,Relaxed
+10,Stroop,2,3,3,Relaxed
+10,Stroop,2,4,3,Relaxed
+10,Stroop,2,5,3,Relaxed
+10,Stroop,3,1,5,Low Stress
+10,Stroop,3,2,5,Low Stress
+10,Stroop,3,3,5,Low Stress
+10,Stroop,3,4,5,Low Stress
+10,Stroop,3,5,5,Low Stress
+10,Mirror_Image,1,1,4,Low Stress
+10,Mirror_Image,1,2,4,Low Stress
+10,Mirror_Image,1,3,4,Low Stress
+10,Mirror_Image,1,4,4,Low Stress
+10,Mirror_Image,1,5,4,Low Stress
+10,Mirror_Image,2,1,5,Low Stress
+10,Mirror_Image,2,2,5,Low Stress
+10,Mirror_Image,2,3,5,Low Stress
+10,Mirror_Image,2,4,5,Low Stress
+10,Mirror_Image,2,5,5,Low Stress
+10,Mirror_Image,3,1,4,Low Stress
+10,Mirror_Image,3,2,4,Low Stress
+10,Mirror_Image,3,3,4,Low Stress
+10,Mirror_Image,3,4,4,Low Stress
+10,Mirror_Image,3,5,4,Low Stress
+10,Arithmetic,1,1,3,Relaxed
+10,Arithmetic,1,2,3,Relaxed
+10,Arithmetic,1,3,3,Relaxed
+10,Arithmetic,1,4,3,Relaxed
+10,Arithmetic,1,5,3,Relaxed
+10,Arithmetic,2,1,4,Low Stress
+10,Arithmetic,2,2,4,Low Stress
+10,Arithmetic,2,3,4,Low Stress
+10,Arithmetic,2,4,4,Low Stress
+10,Arithmetic,2,5,4,Low Stress
+10,Arithmetic,3,1,6,Low Stress
+10,Arithmetic,3,2,6,Low Stress
+10,Arithmetic,3,3,6,Low Stress
+10,Arithmetic,3,4,6,Low Stress
+10,Arithmetic,3,5,6,Low Stress
+11,Relaxation,1,1,0,Relaxed
+11,Relaxation,1,2,0,Relaxed
+11,Relaxation,1,3,0,Relaxed
+11,Relaxation,1,4,0,Relaxed
+11,Relaxation,1,5,0,Relaxed
+11,Relaxation,2,1,0,Relaxed
+11,Relaxation,2,2,0,Relaxed
+11,Relaxation,2,3,0,Relaxed
+11,Relaxation,2,4,0,Relaxed
+11,Relaxation,2,5,0,Relaxed
+11,Relaxation,3,1,0,Relaxed
+11,Relaxation,3,2,0,Relaxed
+11,Relaxation,3,3,0,Relaxed
+11,Relaxation,3,4,0,Relaxed
+11,Relaxation,3,5,0,Relaxed
+11,Stroop,1,1,4,Low Stress
+11,Stroop,1,2,4,Low Stress
+11,Stroop,1,3,4,Low Stress
+11,Stroop,1,4,4,Low Stress
+11,Stroop,1,5,4,Low Stress
+11,Stroop,2,1,5,Low Stress
+11,Stroop,2,2,5,Low Stress
+11,Stroop,2,3,5,Low Stress
+11,Stroop,2,4,5,Low Stress
+11,Stroop,2,5,5,Low Stress
+11,Stroop,3,1,5,Low Stress
+11,Stroop,3,2,5,Low Stress
+11,Stroop,3,3,5,Low Stress
+11,Stroop,3,4,5,Low Stress
+11,Stroop,3,5,5,Low Stress
+11,Mirror_Image,1,1,3,Relaxed
+11,Mirror_Image,1,2,3,Relaxed
+11,Mirror_Image,1,3,3,Relaxed
+11,Mirror_Image,1,4,3,Relaxed
+11,Mirror_Image,1,5,3,Relaxed
+11,Mirror_Image,2,1,5,Low Stress
+11,Mirror_Image,2,2,5,Low Stress
+11,Mirror_Image,2,3,5,Low Stress
+11,Mirror_Image,2,4,5,Low Stress
+11,Mirror_Image,2,5,5,Low Stress
+11,Mirror_Image,3,1,6,Low Stress
+11,Mirror_Image,3,2,6,Low Stress
+11,Mirror_Image,3,3,6,Low Stress
+11,Mirror_Image,3,4,6,Low Stress
+11,Mirror_Image,3,5,6,Low Stress
+11,Arithmetic,1,1,7,High Stress
+11,Arithmetic,1,2,7,High Stress
+11,Arithmetic,1,3,7,High Stress
+11,Arithmetic,1,4,7,High Stress
+11,Arithmetic,1,5,7,High Stress
+11,Arithmetic,2,1,6,Low Stress
+11,Arithmetic,2,2,6,Low Stress
+11,Arithmetic,2,3,6,Low Stress
+11,Arithmetic,2,4,6,Low Stress
+11,Arithmetic,2,5,6,Low Stress
+11,Arithmetic,3,1,5,Low Stress
+11,Arithmetic,3,2,5,Low Stress
+11,Arithmetic,3,3,5,Low Stress
+11,Arithmetic,3,4,5,Low Stress
+11,Arithmetic,3,5,5,Low Stress
+12,Relaxation,1,1,0,Relaxed
+12,Relaxation,1,2,0,Relaxed
+12,Relaxation,1,3,0,Relaxed
+12,Relaxation,1,4,0,Relaxed
+12,Relaxation,1,5,0,Relaxed
+12,Relaxation,2,1,0,Relaxed
+12,Relaxation,2,2,0,Relaxed
+12,Relaxation,2,3,0,Relaxed
+12,Relaxation,2,4,0,Relaxed
+12,Relaxation,2,5,0,Relaxed
+12,Relaxation,3,1,0,Relaxed
+12,Relaxation,3,2,0,Relaxed
+12,Relaxation,3,3,0,Relaxed
+12,Relaxation,3,4,0,Relaxed
+12,Relaxation,3,5,0,Relaxed
+12,Stroop,1,1,2,Relaxed
+12,Stroop,1,2,2,Relaxed
+12,Stroop,1,3,2,Relaxed
+12,Stroop,1,4,2,Relaxed
+12,Stroop,1,5,2,Relaxed
+12,Stroop,2,1,5,Low Stress
+12,Stroop,2,2,5,Low Stress
+12,Stroop,2,3,5,Low Stress
+12,Stroop,2,4,5,Low Stress
+12,Stroop,2,5,5,Low Stress
+12,Stroop,3,1,3,Relaxed
+12,Stroop,3,2,3,Relaxed
+12,Stroop,3,3,3,Relaxed
+12,Stroop,3,4,3,Relaxed
+12,Stroop,3,5,3,Relaxed
+12,Mirror_Image,1,1,7,High Stress
+12,Mirror_Image,1,2,7,High Stress
+12,Mirror_Image,1,3,7,High Stress
+12,Mirror_Image,1,4,7,High Stress
+12,Mirror_Image,1,5,7,High Stress
+12,Mirror_Image,2,1,4,Low Stress
+12,Mirror_Image,2,2,4,Low Stress
+12,Mirror_Image,2,3,4,Low Stress
+12,Mirror_Image,2,4,4,Low Stress
+12,Mirror_Image,2,5,4,Low Stress
+12,Mirror_Image,3,1,6,Low Stress
+12,Mirror_Image,3,2,6,Low Stress
+12,Mirror_Image,3,3,6,Low Stress
+12,Mirror_Image,3,4,6,Low Stress
+12,Mirror_Image,3,5,6,Low Stress
+12,Arithmetic,1,1,5,Low Stress
+12,Arithmetic,1,2,5,Low Stress
+12,Arithmetic,1,3,5,Low Stress
+12,Arithmetic,1,4,5,Low Stress
+12,Arithmetic,1,5,5,Low Stress
+12,Arithmetic,2,1,5,Low Stress
+12,Arithmetic,2,2,5,Low Stress
+12,Arithmetic,2,3,5,Low Stress
+12,Arithmetic,2,4,5,Low Stress
+12,Arithmetic,2,5,5,Low Stress
+12,Arithmetic,3,1,8,High Stress
+12,Arithmetic,3,2,8,High Stress
+12,Arithmetic,3,3,8,High Stress
+12,Arithmetic,3,4,8,High Stress
+12,Arithmetic,3,5,8,High Stress
+13,Relaxation,1,1,0,Relaxed
+13,Relaxation,1,2,0,Relaxed
+13,Relaxation,1,3,0,Relaxed
+13,Relaxation,1,4,0,Relaxed
+13,Relaxation,1,5,0,Relaxed
+13,Relaxation,2,1,0,Relaxed
+13,Relaxation,2,2,0,Relaxed
+13,Relaxation,2,3,0,Relaxed
+13,Relaxation,2,4,0,Relaxed
+13,Relaxation,2,5,0,Relaxed
+13,Relaxation,3,1,0,Relaxed
+13,Relaxation,3,2,0,Relaxed
+13,Relaxation,3,3,0,Relaxed
+13,Relaxation,3,4,0,Relaxed
+13,Relaxation,3,5,0,Relaxed
+13,Stroop,1,1,3,Relaxed
+13,Stroop,1,2,3,Relaxed
+13,Stroop,1,3,3,Relaxed
+13,Stroop,1,4,3,Relaxed
+13,Stroop,1,5,3,Relaxed
+13,Stroop,2,1,2,Relaxed
+13,Stroop,2,2,2,Relaxed
+13,Stroop,2,3,2,Relaxed
+13,Stroop,2,4,2,Relaxed
+13,Stroop,2,5,2,Relaxed
+13,Stroop,3,1,1,Relaxed
+13,Stroop,3,2,1,Relaxed
+13,Stroop,3,3,1,Relaxed
+13,Stroop,3,4,1,Relaxed
+13,Stroop,3,5,1,Relaxed
+13,Mirror_Image,1,1,5,Low Stress
+13,Mirror_Image,1,2,5,Low Stress
+13,Mirror_Image,1,3,5,Low Stress
+13,Mirror_Image,1,4,5,Low Stress
+13,Mirror_Image,1,5,5,Low Stress
+13,Mirror_Image,2,1,4,Low Stress
+13,Mirror_Image,2,2,4,Low Stress
+13,Mirror_Image,2,3,4,Low Stress
+13,Mirror_Image,2,4,4,Low Stress
+13,Mirror_Image,2,5,4,Low Stress
+13,Mirror_Image,3,1,5,Low Stress
+13,Mirror_Image,3,2,5,Low Stress
+13,Mirror_Image,3,3,5,Low Stress
+13,Mirror_Image,3,4,5,Low Stress
+13,Mirror_Image,3,5,5,Low Stress
+13,Arithmetic,1,1,3,Relaxed
+13,Arithmetic,1,2,3,Relaxed
+13,Arithmetic,1,3,3,Relaxed
+13,Arithmetic,1,4,3,Relaxed
+13,Arithmetic,1,5,3,Relaxed
+13,Arithmetic,2,1,3,Relaxed
+13,Arithmetic,2,2,3,Relaxed
+13,Arithmetic,2,3,3,Relaxed
+13,Arithmetic,2,4,3,Relaxed
+13,Arithmetic,2,5,3,Relaxed
+13,Arithmetic,3,1,3,Relaxed
+13,Arithmetic,3,2,3,Relaxed
+13,Arithmetic,3,3,3,Relaxed
+13,Arithmetic,3,4,3,Relaxed
+13,Arithmetic,3,5,3,Relaxed
+14,Relaxation,1,1,0,Relaxed
+14,Relaxation,1,2,0,Relaxed
+14,Relaxation,1,3,0,Relaxed
+14,Relaxation,1,4,0,Relaxed
+14,Relaxation,1,5,0,Relaxed
+14,Relaxation,2,1,0,Relaxed
+14,Relaxation,2,2,0,Relaxed
+14,Relaxation,2,3,0,Relaxed
+14,Relaxation,2,4,0,Relaxed
+14,Relaxation,2,5,0,Relaxed
+14,Relaxation,3,1,0,Relaxed
+14,Relaxation,3,2,0,Relaxed
+14,Relaxation,3,3,0,Relaxed
+14,Relaxation,3,4,0,Relaxed
+14,Relaxation,3,5,0,Relaxed
+14,Stroop,1,1,3,Relaxed
+14,Stroop,1,2,3,Relaxed
+14,Stroop,1,3,3,Relaxed
+14,Stroop,1,4,3,Relaxed
+14,Stroop,1,5,3,Relaxed
+14,Stroop,2,1,2,Relaxed
+14,Stroop,2,2,2,Relaxed
+14,Stroop,2,3,2,Relaxed
+14,Stroop,2,4,2,Relaxed
+14,Stroop,2,5,2,Relaxed
+14,Stroop,3,1,4,Low Stress
+14,Stroop,3,2,4,Low Stress
+14,Stroop,3,3,4,Low Stress
+14,Stroop,3,4,4,Low Stress
+14,Stroop,3,5,4,Low Stress
+14,Mirror_Image,1,1,4,Low Stress
+14,Mirror_Image,1,2,4,Low Stress
+14,Mirror_Image,1,3,4,Low Stress
+14,Mirror_Image,1,4,4,Low Stress
+14,Mirror_Image,1,5,4,Low Stress
+14,Mirror_Image,2,1,4,Low Stress
+14,Mirror_Image,2,2,4,Low Stress
+14,Mirror_Image,2,3,4,Low Stress
+14,Mirror_Image,2,4,4,Low Stress
+14,Mirror_Image,2,5,4,Low Stress
+14,Mirror_Image,3,1,3,Relaxed
+14,Mirror_Image,3,2,3,Relaxed
+14,Mirror_Image,3,3,3,Relaxed
+14,Mirror_Image,3,4,3,Relaxed
+14,Mirror_Image,3,5,3,Relaxed
+14,Arithmetic,1,1,3,Relaxed
+14,Arithmetic,1,2,3,Relaxed
+14,Arithmetic,1,3,3,Relaxed
+14,Arithmetic,1,4,3,Relaxed
+14,Arithmetic,1,5,3,Relaxed
+14,Arithmetic,2,1,6,Low Stress
+14,Arithmetic,2,2,6,Low Stress
+14,Arithmetic,2,3,6,Low Stress
+14,Arithmetic,2,4,6,Low Stress
+14,Arithmetic,2,5,6,Low Stress
+14,Arithmetic,3,1,6,Low Stress
+14,Arithmetic,3,2,6,Low Stress
+14,Arithmetic,3,3,6,Low Stress
+14,Arithmetic,3,4,6,Low Stress
+14,Arithmetic,3,5,6,Low Stress
+15,Relaxation,1,1,0,Relaxed
+15,Relaxation,1,2,0,Relaxed
+15,Relaxation,1,3,0,Relaxed
+15,Relaxation,1,4,0,Relaxed
+15,Relaxation,1,5,0,Relaxed
+15,Relaxation,2,1,0,Relaxed
+15,Relaxation,2,2,0,Relaxed
+15,Relaxation,2,3,0,Relaxed
+15,Relaxation,2,4,0,Relaxed
+15,Relaxation,2,5,0,Relaxed
+15,Relaxation,3,1,0,Relaxed
+15,Relaxation,3,2,0,Relaxed
+15,Relaxation,3,3,0,Relaxed
+15,Relaxation,3,4,0,Relaxed
+15,Relaxation,3,5,0,Relaxed
+15,Stroop,1,1,5,Low Stress
+15,Stroop,1,2,5,Low Stress
+15,Stroop,1,3,5,Low Stress
+15,Stroop,1,4,5,Low Stress
+15,Stroop,1,5,5,Low Stress
+15,Stroop,2,1,3,Relaxed
+15,Stroop,2,2,3,Relaxed
+15,Stroop,2,3,3,Relaxed
+15,Stroop,2,4,3,Relaxed
+15,Stroop,2,5,3,Relaxed
+15,Stroop,3,1,5,Low Stress
+15,Stroop,3,2,5,Low Stress
+15,Stroop,3,3,5,Low Stress
+15,Stroop,3,4,5,Low Stress
+15,Stroop,3,5,5,Low Stress
+15,Mirror_Image,1,1,6,Low Stress
+15,Mirror_Image,1,2,6,Low Stress
+15,Mirror_Image,1,3,6,Low Stress
+15,Mirror_Image,1,4,6,Low Stress
+15,Mirror_Image,1,5,6,Low Stress
+15,Mirror_Image,2,1,5,Low Stress
+15,Mirror_Image,2,2,5,Low Stress
+15,Mirror_Image,2,3,5,Low Stress
+15,Mirror_Image,2,4,5,Low Stress
+15,Mirror_Image,2,5,5,Low Stress
+15,Mirror_Image,3,1,5,Low Stress
+15,Mirror_Image,3,2,5,Low Stress
+15,Mirror_Image,3,3,5,Low Stress
+15,Mirror_Image,3,4,5,Low Stress
+15,Mirror_Image,3,5,5,Low Stress
+15,Arithmetic,1,1,9,High Stress
+15,Arithmetic,1,2,9,High Stress
+15,Arithmetic,1,3,9,High Stress
+15,Arithmetic,1,4,9,High Stress
+15,Arithmetic,1,5,9,High Stress
+15,Arithmetic,2,1,7,High Stress
+15,Arithmetic,2,2,7,High Stress
+15,Arithmetic,2,3,7,High Stress
+15,Arithmetic,2,4,7,High Stress
+15,Arithmetic,2,5,7,High Stress
+15,Arithmetic,3,1,6,Low Stress
+15,Arithmetic,3,2,6,Low Stress
+15,Arithmetic,3,3,6,Low Stress
+15,Arithmetic,3,4,6,Low Stress
+15,Arithmetic,3,5,6,Low Stress
+16,Relaxation,1,1,0,Relaxed
+16,Relaxation,1,2,0,Relaxed
+16,Relaxation,1,3,0,Relaxed
+16,Relaxation,1,4,0,Relaxed
+16,Relaxation,1,5,0,Relaxed
+16,Relaxation,2,1,0,Relaxed
+16,Relaxation,2,2,0,Relaxed
+16,Relaxation,2,3,0,Relaxed
+16,Relaxation,2,4,0,Relaxed
+16,Relaxation,2,5,0,Relaxed
+16,Relaxation,3,1,0,Relaxed
+16,Relaxation,3,2,0,Relaxed
+16,Relaxation,3,3,0,Relaxed
+16,Relaxation,3,4,0,Relaxed
+16,Relaxation,3,5,0,Relaxed
+16,Stroop,1,1,1,Relaxed
+16,Stroop,1,2,1,Relaxed
+16,Stroop,1,3,1,Relaxed
+16,Stroop,1,4,1,Relaxed
+16,Stroop,1,5,1,Relaxed
+16,Stroop,2,1,1,Relaxed
+16,Stroop,2,2,1,Relaxed
+16,Stroop,2,3,1,Relaxed
+16,Stroop,2,4,1,Relaxed
+16,Stroop,2,5,1,Relaxed
+16,Stroop,3,1,6,Low Stress
+16,Stroop,3,2,6,Low Stress
+16,Stroop,3,3,6,Low Stress
+16,Stroop,3,4,6,Low Stress
+16,Stroop,3,5,6,Low Stress
+16,Mirror_Image,1,1,4,Low Stress
+16,Mirror_Image,1,2,4,Low Stress
+16,Mirror_Image,1,3,4,Low Stress
+16,Mirror_Image,1,4,4,Low Stress
+16,Mirror_Image,1,5,4,Low Stress
+16,Mirror_Image,2,1,6,Low Stress
+16,Mirror_Image,2,2,6,Low Stress
+16,Mirror_Image,2,3,6,Low Stress
+16,Mirror_Image,2,4,6,Low Stress
+16,Mirror_Image,2,5,6,Low Stress
+16,Mirror_Image,3,1,5,Low Stress
+16,Mirror_Image,3,2,5,Low Stress
+16,Mirror_Image,3,3,5,Low Stress
+16,Mirror_Image,3,4,5,Low Stress
+16,Mirror_Image,3,5,5,Low Stress
+16,Arithmetic,1,1,4,Low Stress
+16,Arithmetic,1,2,4,Low Stress
+16,Arithmetic,1,3,4,Low Stress
+16,Arithmetic,1,4,4,Low Stress
+16,Arithmetic,1,5,4,Low Stress
+16,Arithmetic,2,1,5,Low Stress
+16,Arithmetic,2,2,5,Low Stress
+16,Arithmetic,2,3,5,Low Stress
+16,Arithmetic,2,4,5,Low Stress
+16,Arithmetic,2,5,5,Low Stress
+16,Arithmetic,3,1,8,High Stress
+16,Arithmetic,3,2,8,High Stress
+16,Arithmetic,3,3,8,High Stress
+16,Arithmetic,3,4,8,High Stress
+16,Arithmetic,3,5,8,High Stress
+17,Relaxation,1,1,0,Relaxed
+17,Relaxation,1,2,0,Relaxed
+17,Relaxation,1,3,0,Relaxed
+17,Relaxation,1,4,0,Relaxed
+17,Relaxation,1,5,0,Relaxed
+17,Relaxation,2,1,0,Relaxed
+17,Relaxation,2,2,0,Relaxed
+17,Relaxation,2,3,0,Relaxed
+17,Relaxation,2,4,0,Relaxed
+17,Relaxation,2,5,0,Relaxed
+17,Relaxation,3,1,0,Relaxed
+17,Relaxation,3,2,0,Relaxed
+17,Relaxation,3,3,0,Relaxed
+17,Relaxation,3,4,0,Relaxed
+17,Relaxation,3,5,0,Relaxed
+17,Stroop,1,1,8,High Stress
+17,Stroop,1,2,8,High Stress
+17,Stroop,1,3,8,High Stress
+17,Stroop,1,4,8,High Stress
+17,Stroop,1,5,8,High Stress
+17,Stroop,2,1,4,Low Stress
+17,Stroop,2,2,4,Low Stress
+17,Stroop,2,3,4,Low Stress
+17,Stroop,2,4,4,Low Stress
+17,Stroop,2,5,4,Low Stress
+17,Stroop,3,1,6,Low Stress
+17,Stroop,3,2,6,Low Stress
+17,Stroop,3,3,6,Low Stress
+17,Stroop,3,4,6,Low Stress
+17,Stroop,3,5,6,Low Stress
+17,Mirror_Image,1,1,9,High Stress
+17,Mirror_Image,1,2,9,High Stress
+17,Mirror_Image,1,3,9,High Stress
+17,Mirror_Image,1,4,9,High Stress
+17,Mirror_Image,1,5,9,High Stress
+17,Mirror_Image,2,1,8,High Stress
+17,Mirror_Image,2,2,8,High Stress
+17,Mirror_Image,2,3,8,High Stress
+17,Mirror_Image,2,4,8,High Stress
+17,Mirror_Image,2,5,8,High Stress
+17,Mirror_Image,3,1,7,High Stress
+17,Mirror_Image,3,2,7,High Stress
+17,Mirror_Image,3,3,7,High Stress
+17,Mirror_Image,3,4,7,High Stress
+17,Mirror_Image,3,5,7,High Stress
+17,Arithmetic,1,1,8,High Stress
+17,Arithmetic,1,2,8,High Stress
+17,Arithmetic,1,3,8,High Stress
+17,Arithmetic,1,4,8,High Stress
+17,Arithmetic,1,5,8,High Stress
+17,Arithmetic,2,1,6,Low Stress
+17,Arithmetic,2,2,6,Low Stress
+17,Arithmetic,2,3,6,Low Stress
+17,Arithmetic,2,4,6,Low Stress
+17,Arithmetic,2,5,6,Low Stress
+17,Arithmetic,3,1,7,High Stress
+17,Arithmetic,3,2,7,High Stress
+17,Arithmetic,3,3,7,High Stress
+17,Arithmetic,3,4,7,High Stress
+17,Arithmetic,3,5,7,High Stress
+18,Relaxation,1,1,0,Relaxed
+18,Relaxation,1,2,0,Relaxed
+18,Relaxation,1,3,0,Relaxed
+18,Relaxation,1,4,0,Relaxed
+18,Relaxation,1,5,0,Relaxed
+18,Relaxation,2,1,0,Relaxed
+18,Relaxation,2,2,0,Relaxed
+18,Relaxation,2,3,0,Relaxed
+18,Relaxation,2,4,0,Relaxed
+18,Relaxation,2,5,0,Relaxed
+18,Relaxation,3,1,0,Relaxed
+18,Relaxation,3,2,0,Relaxed
+18,Relaxation,3,3,0,Relaxed
+18,Relaxation,3,4,0,Relaxed
+18,Relaxation,3,5,0,Relaxed
+18,Stroop,1,1,6,Low Stress
+18,Stroop,1,2,6,Low Stress
+18,Stroop,1,3,6,Low Stress
+18,Stroop,1,4,6,Low Stress
+18,Stroop,1,5,6,Low Stress
+18,Stroop,2,1,5,Low Stress
+18,Stroop,2,2,5,Low Stress
+18,Stroop,2,3,5,Low Stress
+18,Stroop,2,4,5,Low Stress
+18,Stroop,2,5,5,Low Stress
+18,Stroop,3,1,7,High Stress
+18,Stroop,3,2,7,High Stress
+18,Stroop,3,3,7,High Stress
+18,Stroop,3,4,7,High Stress
+18,Stroop,3,5,7,High Stress
+18,Mirror_Image,1,1,5,Low Stress
+18,Mirror_Image,1,2,5,Low Stress
+18,Mirror_Image,1,3,5,Low Stress
+18,Mirror_Image,1,4,5,Low Stress
+18,Mirror_Image,1,5,5,Low Stress
+18,Mirror_Image,2,1,6,Low Stress
+18,Mirror_Image,2,2,6,Low Stress
+18,Mirror_Image,2,3,6,Low Stress
+18,Mirror_Image,2,4,6,Low Stress
+18,Mirror_Image,2,5,6,Low Stress
+18,Mirror_Image,3,1,6,Low Stress
+18,Mirror_Image,3,2,6,Low Stress
+18,Mirror_Image,3,3,6,Low Stress
+18,Mirror_Image,3,4,6,Low Stress
+18,Mirror_Image,3,5,6,Low Stress
+18,Arithmetic,1,1,6,Low Stress
+18,Arithmetic,1,2,6,Low Stress
+18,Arithmetic,1,3,6,Low Stress
+18,Arithmetic,1,4,6,Low Stress
+18,Arithmetic,1,5,6,Low Stress
+18,Arithmetic,2,1,5,Low Stress
+18,Arithmetic,2,2,5,Low Stress
+18,Arithmetic,2,3,5,Low Stress
+18,Arithmetic,2,4,5,Low Stress
+18,Arithmetic,2,5,5,Low Stress
+18,Arithmetic,3,1,9,High Stress
+18,Arithmetic,3,2,9,High Stress
+18,Arithmetic,3,3,9,High Stress
+18,Arithmetic,3,4,9,High Stress
+18,Arithmetic,3,5,9,High Stress
+19,Relaxation,1,1,0,Relaxed
+19,Relaxation,1,2,0,Relaxed
+19,Relaxation,1,3,0,Relaxed
+19,Relaxation,1,4,0,Relaxed
+19,Relaxation,1,5,0,Relaxed
+19,Relaxation,2,1,0,Relaxed
+19,Relaxation,2,2,0,Relaxed
+19,Relaxation,2,3,0,Relaxed
+19,Relaxation,2,4,0,Relaxed
+19,Relaxation,2,5,0,Relaxed
+19,Relaxation,3,1,0,Relaxed
+19,Relaxation,3,2,0,Relaxed
+19,Relaxation,3,3,0,Relaxed
+19,Relaxation,3,4,0,Relaxed
+19,Relaxation,3,5,0,Relaxed
+19,Stroop,1,1,6,Low Stress
+19,Stroop,1,2,6,Low Stress
+19,Stroop,1,3,6,Low Stress
+19,Stroop,1,4,6,Low Stress
+19,Stroop,1,5,6,Low Stress
+19,Stroop,2,1,3,Relaxed
+19,Stroop,2,2,3,Relaxed
+19,Stroop,2,3,3,Relaxed
+19,Stroop,2,4,3,Relaxed
+19,Stroop,2,5,3,Relaxed
+19,Stroop,3,1,3,Relaxed
+19,Stroop,3,2,3,Relaxed
+19,Stroop,3,3,3,Relaxed
+19,Stroop,3,4,3,Relaxed
+19,Stroop,3,5,3,Relaxed
+19,Mirror_Image,1,1,6,Low Stress
+19,Mirror_Image,1,2,6,Low Stress
+19,Mirror_Image,1,3,6,Low Stress
+19,Mirror_Image,1,4,6,Low Stress
+19,Mirror_Image,1,5,6,Low Stress
+19,Mirror_Image,2,1,4,Low Stress
+19,Mirror_Image,2,2,4,Low Stress
+19,Mirror_Image,2,3,4,Low Stress
+19,Mirror_Image,2,4,4,Low Stress
+19,Mirror_Image,2,5,4,Low Stress
+19,Mirror_Image,3,1,1,Relaxed
+19,Mirror_Image,3,2,1,Relaxed
+19,Mirror_Image,3,3,1,Relaxed
+19,Mirror_Image,3,4,1,Relaxed
+19,Mirror_Image,3,5,1,Relaxed
+19,Arithmetic,1,1,4,Low Stress
+19,Arithmetic,1,2,4,Low Stress
+19,Arithmetic,1,3,4,Low Stress
+19,Arithmetic,1,4,4,Low Stress
+19,Arithmetic,1,5,4,Low Stress
+19,Arithmetic,2,1,2,Relaxed
+19,Arithmetic,2,2,2,Relaxed
+19,Arithmetic,2,3,2,Relaxed
+19,Arithmetic,2,4,2,Relaxed
+19,Arithmetic,2,5,2,Relaxed
+19,Arithmetic,3,1,4,Low Stress
+19,Arithmetic,3,2,4,Low Stress
+19,Arithmetic,3,3,4,Low Stress
+19,Arithmetic,3,4,4,Low Stress
+19,Arithmetic,3,5,4,Low Stress
+20,Relaxation,1,1,0,Relaxed
+20,Relaxation,1,2,0,Relaxed
+20,Relaxation,1,3,0,Relaxed
+20,Relaxation,1,4,0,Relaxed
+20,Relaxation,1,5,0,Relaxed
+20,Relaxation,2,1,0,Relaxed
+20,Relaxation,2,2,0,Relaxed
+20,Relaxation,2,3,0,Relaxed
+20,Relaxation,2,4,0,Relaxed
+20,Relaxation,2,5,0,Relaxed
+20,Relaxation,3,1,0,Relaxed
+20,Relaxation,3,2,0,Relaxed
+20,Relaxation,3,3,0,Relaxed
+20,Relaxation,3,4,0,Relaxed
+20,Relaxation,3,5,0,Relaxed
+20,Stroop,1,1,7,High Stress
+20,Stroop,1,2,7,High Stress
+20,Stroop,1,3,7,High Stress
+20,Stroop,1,4,7,High Stress
+20,Stroop,1,5,7,High Stress
+20,Stroop,2,1,5,Low Stress
+20,Stroop,2,2,5,Low Stress
+20,Stroop,2,3,5,Low Stress
+20,Stroop,2,4,5,Low Stress
+20,Stroop,2,5,5,Low Stress
+20,Stroop,3,1,6,Low Stress
+20,Stroop,3,2,6,Low Stress
+20,Stroop,3,3,6,Low Stress
+20,Stroop,3,4,6,Low Stress
+20,Stroop,3,5,6,Low Stress
+20,Mirror_Image,1,1,9,High Stress
+20,Mirror_Image,1,2,9,High Stress
+20,Mirror_Image,1,3,9,High Stress
+20,Mirror_Image,1,4,9,High Stress
+20,Mirror_Image,1,5,9,High Stress
+20,Mirror_Image,2,1,9,High Stress
+20,Mirror_Image,2,2,9,High Stress
+20,Mirror_Image,2,3,9,High Stress
+20,Mirror_Image,2,4,9,High Stress
+20,Mirror_Image,2,5,9,High Stress
+20,Mirror_Image,3,1,8,High Stress
+20,Mirror_Image,3,2,8,High Stress
+20,Mirror_Image,3,3,8,High Stress
+20,Mirror_Image,3,4,8,High Stress
+20,Mirror_Image,3,5,8,High Stress
+20,Arithmetic,1,1,10,High Stress
+20,Arithmetic,1,2,10,High Stress
+20,Arithmetic,1,3,10,High Stress
+20,Arithmetic,1,4,10,High Stress
+20,Arithmetic,1,5,10,High Stress
+20,Arithmetic,2,1,10,High Stress
+20,Arithmetic,2,2,10,High Stress
+20,Arithmetic,2,3,10,High Stress
+20,Arithmetic,2,4,10,High Stress
+20,Arithmetic,2,5,10,High Stress
+20,Arithmetic,3,1,10,High Stress
+20,Arithmetic,3,2,10,High Stress
+20,Arithmetic,3,3,10,High Stress
+20,Arithmetic,3,4,10,High Stress
+20,Arithmetic,3,5,10,High Stress
+21,Relaxation,1,1,0,Relaxed
+21,Relaxation,1,2,0,Relaxed
+21,Relaxation,1,3,0,Relaxed
+21,Relaxation,1,4,0,Relaxed
+21,Relaxation,1,5,0,Relaxed
+21,Relaxation,2,1,0,Relaxed
+21,Relaxation,2,2,0,Relaxed
+21,Relaxation,2,3,0,Relaxed
+21,Relaxation,2,4,0,Relaxed
+21,Relaxation,2,5,0,Relaxed
+21,Relaxation,3,1,0,Relaxed
+21,Relaxation,3,2,0,Relaxed
+21,Relaxation,3,3,0,Relaxed
+21,Relaxation,3,4,0,Relaxed
+21,Relaxation,3,5,0,Relaxed
+21,Stroop,1,1,9,High Stress
+21,Stroop,1,2,9,High Stress
+21,Stroop,1,3,9,High Stress
+21,Stroop,1,4,9,High Stress
+21,Stroop,1,5,9,High Stress
+21,Stroop,2,1,9,High Stress
+21,Stroop,2,2,9,High Stress
+21,Stroop,2,3,9,High Stress
+21,Stroop,2,4,9,High Stress
+21,Stroop,2,5,9,High Stress
+21,Stroop,3,1,9,High Stress
+21,Stroop,3,2,9,High Stress
+21,Stroop,3,3,9,High Stress
+21,Stroop,3,4,9,High Stress
+21,Stroop,3,5,9,High Stress
+21,Mirror_Image,1,1,8,High Stress
+21,Mirror_Image,1,2,8,High Stress
+21,Mirror_Image,1,3,8,High Stress
+21,Mirror_Image,1,4,8,High Stress
+21,Mirror_Image,1,5,8,High Stress
+21,Mirror_Image,2,1,8,High Stress
+21,Mirror_Image,2,2,8,High Stress
+21,Mirror_Image,2,3,8,High Stress
+21,Mirror_Image,2,4,8,High Stress
+21,Mirror_Image,2,5,8,High Stress
+21,Mirror_Image,3,1,8,High Stress
+21,Mirror_Image,3,2,8,High Stress
+21,Mirror_Image,3,3,8,High Stress
+21,Mirror_Image,3,4,8,High Stress
+21,Mirror_Image,3,5,8,High Stress
+21,Arithmetic,1,1,7,High Stress
+21,Arithmetic,1,2,7,High Stress
+21,Arithmetic,1,3,7,High Stress
+21,Arithmetic,1,4,7,High Stress
+21,Arithmetic,1,5,7,High Stress
+21,Arithmetic,2,1,8,High Stress
+21,Arithmetic,2,2,8,High Stress
+21,Arithmetic,2,3,8,High Stress
+21,Arithmetic,2,4,8,High Stress
+21,Arithmetic,2,5,8,High Stress
+21,Arithmetic,3,1,7,High Stress
+21,Arithmetic,3,2,7,High Stress
+21,Arithmetic,3,3,7,High Stress
+21,Arithmetic,3,4,7,High Stress
+21,Arithmetic,3,5,7,High Stress
+22,Relaxation,1,1,0,Relaxed
+22,Relaxation,1,2,0,Relaxed
+22,Relaxation,1,3,0,Relaxed
+22,Relaxation,1,4,0,Relaxed
+22,Relaxation,1,5,0,Relaxed
+22,Relaxation,2,1,0,Relaxed
+22,Relaxation,2,2,0,Relaxed
+22,Relaxation,2,3,0,Relaxed
+22,Relaxation,2,4,0,Relaxed
+22,Relaxation,2,5,0,Relaxed
+22,Relaxation,3,1,0,Relaxed
+22,Relaxation,3,2,0,Relaxed
+22,Relaxation,3,3,0,Relaxed
+22,Relaxation,3,4,0,Relaxed
+22,Relaxation,3,5,0,Relaxed
+22,Stroop,1,1,5,Low Stress
+22,Stroop,1,2,5,Low Stress
+22,Stroop,1,3,5,Low Stress
+22,Stroop,1,4,5,Low Stress
+22,Stroop,1,5,5,Low Stress
+22,Stroop,2,1,6,Low Stress
+22,Stroop,2,2,6,Low Stress
+22,Stroop,2,3,6,Low Stress
+22,Stroop,2,4,6,Low Stress
+22,Stroop,2,5,6,Low Stress
+22,Stroop,3,1,5,Low Stress
+22,Stroop,3,2,5,Low Stress
+22,Stroop,3,3,5,Low Stress
+22,Stroop,3,4,5,Low Stress
+22,Stroop,3,5,5,Low Stress
+22,Mirror_Image,1,1,8,High Stress
+22,Mirror_Image,1,2,8,High Stress
+22,Mirror_Image,1,3,8,High Stress
+22,Mirror_Image,1,4,8,High Stress
+22,Mirror_Image,1,5,8,High Stress
+22,Mirror_Image,2,1,8,High Stress
+22,Mirror_Image,2,2,8,High Stress
+22,Mirror_Image,2,3,8,High Stress
+22,Mirror_Image,2,4,8,High Stress
+22,Mirror_Image,2,5,8,High Stress
+22,Mirror_Image,3,1,6,Low Stress
+22,Mirror_Image,3,2,6,Low Stress
+22,Mirror_Image,3,3,6,Low Stress
+22,Mirror_Image,3,4,6,Low Stress
+22,Mirror_Image,3,5,6,Low Stress
+22,Arithmetic,1,1,9,High Stress
+22,Arithmetic,1,2,9,High Stress
+22,Arithmetic,1,3,9,High Stress
+22,Arithmetic,1,4,9,High Stress
+22,Arithmetic,1,5,9,High Stress
+22,Arithmetic,2,1,8,High Stress
+22,Arithmetic,2,2,8,High Stress
+22,Arithmetic,2,3,8,High Stress
+22,Arithmetic,2,4,8,High Stress
+22,Arithmetic,2,5,8,High Stress
+22,Arithmetic,3,1,7,High Stress
+22,Arithmetic,3,2,7,High Stress
+22,Arithmetic,3,3,7,High Stress
+22,Arithmetic,3,4,7,High Stress
+22,Arithmetic,3,5,7,High Stress
+23,Relaxation,1,1,0,Relaxed
+23,Relaxation,1,2,0,Relaxed
+23,Relaxation,1,3,0,Relaxed
+23,Relaxation,1,4,0,Relaxed
+23,Relaxation,1,5,0,Relaxed
+23,Relaxation,2,1,0,Relaxed
+23,Relaxation,2,2,0,Relaxed
+23,Relaxation,2,3,0,Relaxed
+23,Relaxation,2,4,0,Relaxed
+23,Relaxation,2,5,0,Relaxed
+23,Relaxation,3,1,0,Relaxed
+23,Relaxation,3,2,0,Relaxed
+23,Relaxation,3,3,0,Relaxed
+23,Relaxation,3,4,0,Relaxed
+23,Relaxation,3,5,0,Relaxed
+23,Stroop,1,1,1,Relaxed
+23,Stroop,1,2,1,Relaxed
+23,Stroop,1,3,1,Relaxed
+23,Stroop,1,4,1,Relaxed
+23,Stroop,1,5,1,Relaxed
+23,Stroop,2,1,1,Relaxed
+23,Stroop,2,2,1,Relaxed
+23,Stroop,2,3,1,Relaxed
+23,Stroop,2,4,1,Relaxed
+23,Stroop,2,5,1,Relaxed
+23,Stroop,3,1,5,Low Stress
+23,Stroop,3,2,5,Low Stress
+23,Stroop,3,3,5,Low Stress
+23,Stroop,3,4,5,Low Stress
+23,Stroop,3,5,5,Low Stress
+23,Mirror_Image,1,1,2,Relaxed
+23,Mirror_Image,1,2,2,Relaxed
+23,Mirror_Image,1,3,2,Relaxed
+23,Mirror_Image,1,4,2,Relaxed
+23,Mirror_Image,1,5,2,Relaxed
+23,Mirror_Image,2,1,2,Relaxed
+23,Mirror_Image,2,2,2,Relaxed
+23,Mirror_Image,2,3,2,Relaxed
+23,Mirror_Image,2,4,2,Relaxed
+23,Mirror_Image,2,5,2,Relaxed
+23,Mirror_Image,3,1,4,Low Stress
+23,Mirror_Image,3,2,4,Low Stress
+23,Mirror_Image,3,3,4,Low Stress
+23,Mirror_Image,3,4,4,Low Stress
+23,Mirror_Image,3,5,4,Low Stress
+23,Arithmetic,1,1,3,Relaxed
+23,Arithmetic,1,2,3,Relaxed
+23,Arithmetic,1,3,3,Relaxed
+23,Arithmetic,1,4,3,Relaxed
+23,Arithmetic,1,5,3,Relaxed
+23,Arithmetic,2,1,4,Low Stress
+23,Arithmetic,2,2,4,Low Stress
+23,Arithmetic,2,3,4,Low Stress
+23,Arithmetic,2,4,4,Low Stress
+23,Arithmetic,2,5,4,Low Stress
+23,Arithmetic,3,1,8,High Stress
+23,Arithmetic,3,2,8,High Stress
+23,Arithmetic,3,3,8,High Stress
+23,Arithmetic,3,4,8,High Stress
+23,Arithmetic,3,5,8,High Stress
+24,Relaxation,1,1,0,Relaxed
+24,Relaxation,1,2,0,Relaxed
+24,Relaxation,1,3,0,Relaxed
+24,Relaxation,1,4,0,Relaxed
+24,Relaxation,1,5,0,Relaxed
+24,Relaxation,2,1,0,Relaxed
+24,Relaxation,2,2,0,Relaxed
+24,Relaxation,2,3,0,Relaxed
+24,Relaxation,2,4,0,Relaxed
+24,Relaxation,2,5,0,Relaxed
+24,Relaxation,3,1,0,Relaxed
+24,Relaxation,3,2,0,Relaxed
+24,Relaxation,3,3,0,Relaxed
+24,Relaxation,3,4,0,Relaxed
+24,Relaxation,3,5,0,Relaxed
+24,Stroop,1,1,1,Relaxed
+24,Stroop,1,2,1,Relaxed
+24,Stroop,1,3,1,Relaxed
+24,Stroop,1,4,1,Relaxed
+24,Stroop,1,5,1,Relaxed
+24,Stroop,2,1,1,Relaxed
+24,Stroop,2,2,1,Relaxed
+24,Stroop,2,3,1,Relaxed
+24,Stroop,2,4,1,Relaxed
+24,Stroop,2,5,1,Relaxed
+24,Stroop,3,1,4,Low Stress
+24,Stroop,3,2,4,Low Stress
+24,Stroop,3,3,4,Low Stress
+24,Stroop,3,4,4,Low Stress
+24,Stroop,3,5,4,Low Stress
+24,Mirror_Image,1,1,2,Relaxed
+24,Mirror_Image,1,2,2,Relaxed
+24,Mirror_Image,1,3,2,Relaxed
+24,Mirror_Image,1,4,2,Relaxed
+24,Mirror_Image,1,5,2,Relaxed
+24,Mirror_Image,2,1,1,Relaxed
+24,Mirror_Image,2,2,1,Relaxed
+24,Mirror_Image,2,3,1,Relaxed
+24,Mirror_Image,2,4,1,Relaxed
+24,Mirror_Image,2,5,1,Relaxed
+24,Mirror_Image,3,1,7,High Stress
+24,Mirror_Image,3,2,7,High Stress
+24,Mirror_Image,3,3,7,High Stress
+24,Mirror_Image,3,4,7,High Stress
+24,Mirror_Image,3,5,7,High Stress
+24,Arithmetic,1,1,4,Low Stress
+24,Arithmetic,1,2,4,Low Stress
+24,Arithmetic,1,3,4,Low Stress
+24,Arithmetic,1,4,4,Low Stress
+24,Arithmetic,1,5,4,Low Stress
+24,Arithmetic,2,1,2,Relaxed
+24,Arithmetic,2,2,2,Relaxed
+24,Arithmetic,2,3,2,Relaxed
+24,Arithmetic,2,4,2,Relaxed
+24,Arithmetic,2,5,2,Relaxed
+24,Arithmetic,3,1,5,Low Stress
+24,Arithmetic,3,2,5,Low Stress
+24,Arithmetic,3,3,5,Low Stress
+24,Arithmetic,3,4,5,Low Stress
+24,Arithmetic,3,5,5,Low Stress
+25,Relaxation,1,1,0,Relaxed
+25,Relaxation,1,2,0,Relaxed
+25,Relaxation,1,3,0,Relaxed
+25,Relaxation,1,4,0,Relaxed
+25,Relaxation,1,5,0,Relaxed
+25,Relaxation,2,1,0,Relaxed
+25,Relaxation,2,2,0,Relaxed
+25,Relaxation,2,3,0,Relaxed
+25,Relaxation,2,4,0,Relaxed
+25,Relaxation,2,5,0,Relaxed
+25,Relaxation,3,1,0,Relaxed
+25,Relaxation,3,2,0,Relaxed
+25,Relaxation,3,3,0,Relaxed
+25,Relaxation,3,4,0,Relaxed
+25,Relaxation,3,5,0,Relaxed
+25,Stroop,1,1,2,Relaxed
+25,Stroop,1,2,2,Relaxed
+25,Stroop,1,3,2,Relaxed
+25,Stroop,1,4,2,Relaxed
+25,Stroop,1,5,2,Relaxed
+25,Stroop,2,1,2,Relaxed
+25,Stroop,2,2,2,Relaxed
+25,Stroop,2,3,2,Relaxed
+25,Stroop,2,4,2,Relaxed
+25,Stroop,2,5,2,Relaxed
+25,Stroop,3,1,5,Low Stress
+25,Stroop,3,2,5,Low Stress
+25,Stroop,3,3,5,Low Stress
+25,Stroop,3,4,5,Low Stress
+25,Stroop,3,5,5,Low Stress
+25,Mirror_Image,1,1,1,Relaxed
+25,Mirror_Image,1,2,1,Relaxed
+25,Mirror_Image,1,3,1,Relaxed
+25,Mirror_Image,1,4,1,Relaxed
+25,Mirror_Image,1,5,1,Relaxed
+25,Mirror_Image,2,1,1,Relaxed
+25,Mirror_Image,2,2,1,Relaxed
+25,Mirror_Image,2,3,1,Relaxed
+25,Mirror_Image,2,4,1,Relaxed
+25,Mirror_Image,2,5,1,Relaxed
+25,Mirror_Image,3,1,7,High Stress
+25,Mirror_Image,3,2,7,High Stress
+25,Mirror_Image,3,3,7,High Stress
+25,Mirror_Image,3,4,7,High Stress
+25,Mirror_Image,3,5,7,High Stress
+25,Arithmetic,1,1,2,Relaxed
+25,Arithmetic,1,2,2,Relaxed
+25,Arithmetic,1,3,2,Relaxed
+25,Arithmetic,1,4,2,Relaxed
+25,Arithmetic,1,5,2,Relaxed
+25,Arithmetic,2,1,2,Relaxed
+25,Arithmetic,2,2,2,Relaxed
+25,Arithmetic,2,3,2,Relaxed
+25,Arithmetic,2,4,2,Relaxed
+25,Arithmetic,2,5,2,Relaxed
+25,Arithmetic,3,1,5,Low Stress
+25,Arithmetic,3,2,5,Low Stress
+25,Arithmetic,3,3,5,Low Stress
+25,Arithmetic,3,4,5,Low Stress
+25,Arithmetic,3,5,5,Low Stress
+26,Relaxation,1,1,0,Relaxed
+26,Relaxation,1,2,0,Relaxed
+26,Relaxation,1,3,0,Relaxed
+26,Relaxation,1,4,0,Relaxed
+26,Relaxation,1,5,0,Relaxed
+26,Relaxation,2,1,0,Relaxed
+26,Relaxation,2,2,0,Relaxed
+26,Relaxation,2,3,0,Relaxed
+26,Relaxation,2,4,0,Relaxed
+26,Relaxation,2,5,0,Relaxed
+26,Relaxation,3,1,0,Relaxed
+26,Relaxation,3,2,0,Relaxed
+26,Relaxation,3,3,0,Relaxed
+26,Relaxation,3,4,0,Relaxed
+26,Relaxation,3,5,0,Relaxed
+26,Stroop,1,1,8,High Stress
+26,Stroop,1,2,8,High Stress
+26,Stroop,1,3,8,High Stress
+26,Stroop,1,4,8,High Stress
+26,Stroop,1,5,8,High Stress
+26,Stroop,2,1,7,High Stress
+26,Stroop,2,2,7,High Stress
+26,Stroop,2,3,7,High Stress
+26,Stroop,2,4,7,High Stress
+26,Stroop,2,5,7,High Stress
+26,Stroop,3,1,6,Low Stress
+26,Stroop,3,2,6,Low Stress
+26,Stroop,3,3,6,Low Stress
+26,Stroop,3,4,6,Low Stress
+26,Stroop,3,5,6,Low Stress
+26,Mirror_Image,1,1,7,High Stress
+26,Mirror_Image,1,2,7,High Stress
+26,Mirror_Image,1,3,7,High Stress
+26,Mirror_Image,1,4,7,High Stress
+26,Mirror_Image,1,5,7,High Stress
+26,Mirror_Image,2,1,8,High Stress
+26,Mirror_Image,2,2,8,High Stress
+26,Mirror_Image,2,3,8,High Stress
+26,Mirror_Image,2,4,8,High Stress
+26,Mirror_Image,2,5,8,High Stress
+26,Mirror_Image,3,1,5,Low Stress
+26,Mirror_Image,3,2,5,Low Stress
+26,Mirror_Image,3,3,5,Low Stress
+26,Mirror_Image,3,4,5,Low Stress
+26,Mirror_Image,3,5,5,Low Stress
+26,Arithmetic,1,1,6,Low Stress
+26,Arithmetic,1,2,6,Low Stress
+26,Arithmetic,1,3,6,Low Stress
+26,Arithmetic,1,4,6,Low Stress
+26,Arithmetic,1,5,6,Low Stress
+26,Arithmetic,2,1,6,Low Stress
+26,Arithmetic,2,2,6,Low Stress
+26,Arithmetic,2,3,6,Low Stress
+26,Arithmetic,2,4,6,Low Stress
+26,Arithmetic,2,5,6,Low Stress
+26,Arithmetic,3,1,4,Low Stress
+26,Arithmetic,3,2,4,Low Stress
+26,Arithmetic,3,3,4,Low Stress
+26,Arithmetic,3,4,4,Low Stress
+26,Arithmetic,3,5,4,Low Stress
+27,Relaxation,1,1,0,Relaxed
+27,Relaxation,1,2,0,Relaxed
+27,Relaxation,1,3,0,Relaxed
+27,Relaxation,1,4,0,Relaxed
+27,Relaxation,1,5,0,Relaxed
+27,Relaxation,2,1,0,Relaxed
+27,Relaxation,2,2,0,Relaxed
+27,Relaxation,2,3,0,Relaxed
+27,Relaxation,2,4,0,Relaxed
+27,Relaxation,2,5,0,Relaxed
+27,Relaxation,3,1,0,Relaxed
+27,Relaxation,3,2,0,Relaxed
+27,Relaxation,3,3,0,Relaxed
+27,Relaxation,3,4,0,Relaxed
+27,Relaxation,3,5,0,Relaxed
+27,Stroop,1,1,3,Relaxed
+27,Stroop,1,2,3,Relaxed
+27,Stroop,1,3,3,Relaxed
+27,Stroop,1,4,3,Relaxed
+27,Stroop,1,5,3,Relaxed
+27,Stroop,2,1,2,Relaxed
+27,Stroop,2,2,2,Relaxed
+27,Stroop,2,3,2,Relaxed
+27,Stroop,2,4,2,Relaxed
+27,Stroop,2,5,2,Relaxed
+27,Stroop,3,1,3,Relaxed
+27,Stroop,3,2,3,Relaxed
+27,Stroop,3,3,3,Relaxed
+27,Stroop,3,4,3,Relaxed
+27,Stroop,3,5,3,Relaxed
+27,Mirror_Image,1,1,5,Low Stress
+27,Mirror_Image,1,2,5,Low Stress
+27,Mirror_Image,1,3,5,Low Stress
+27,Mirror_Image,1,4,5,Low Stress
+27,Mirror_Image,1,5,5,Low Stress
+27,Mirror_Image,2,1,4,Low Stress
+27,Mirror_Image,2,2,4,Low Stress
+27,Mirror_Image,2,3,4,Low Stress
+27,Mirror_Image,2,4,4,Low Stress
+27,Mirror_Image,2,5,4,Low Stress
+27,Mirror_Image,3,1,3,Relaxed
+27,Mirror_Image,3,2,3,Relaxed
+27,Mirror_Image,3,3,3,Relaxed
+27,Mirror_Image,3,4,3,Relaxed
+27,Mirror_Image,3,5,3,Relaxed
+27,Arithmetic,1,1,5,Low Stress
+27,Arithmetic,1,2,5,Low Stress
+27,Arithmetic,1,3,5,Low Stress
+27,Arithmetic,1,4,5,Low Stress
+27,Arithmetic,1,5,5,Low Stress
+27,Arithmetic,2,1,3,Relaxed
+27,Arithmetic,2,2,3,Relaxed
+27,Arithmetic,2,3,3,Relaxed
+27,Arithmetic,2,4,3,Relaxed
+27,Arithmetic,2,5,3,Relaxed
+27,Arithmetic,3,1,5,Low Stress
+27,Arithmetic,3,2,5,Low Stress
+27,Arithmetic,3,3,5,Low Stress
+27,Arithmetic,3,4,5,Low Stress
+27,Arithmetic,3,5,5,Low Stress
+28,Relaxation,1,1,0,Relaxed
+28,Relaxation,1,2,0,Relaxed
+28,Relaxation,1,3,0,Relaxed
+28,Relaxation,1,4,0,Relaxed
+28,Relaxation,1,5,0,Relaxed
+28,Relaxation,2,1,0,Relaxed
+28,Relaxation,2,2,0,Relaxed
+28,Relaxation,2,3,0,Relaxed
+28,Relaxation,2,4,0,Relaxed
+28,Relaxation,2,5,0,Relaxed
+28,Relaxation,3,1,0,Relaxed
+28,Relaxation,3,2,0,Relaxed
+28,Relaxation,3,3,0,Relaxed
+28,Relaxation,3,4,0,Relaxed
+28,Relaxation,3,5,0,Relaxed
+28,Stroop,1,1,7,High Stress
+28,Stroop,1,2,7,High Stress
+28,Stroop,1,3,7,High Stress
+28,Stroop,1,4,7,High Stress
+28,Stroop,1,5,7,High Stress
+28,Stroop,2,1,5,Low Stress
+28,Stroop,2,2,5,Low Stress
+28,Stroop,2,3,5,Low Stress
+28,Stroop,2,4,5,Low Stress
+28,Stroop,2,5,5,Low Stress
+28,Stroop,3,1,4,Low Stress
+28,Stroop,3,2,4,Low Stress
+28,Stroop,3,3,4,Low Stress
+28,Stroop,3,4,4,Low Stress
+28,Stroop,3,5,4,Low Stress
+28,Mirror_Image,1,1,8,High Stress
+28,Mirror_Image,1,2,8,High Stress
+28,Mirror_Image,1,3,8,High Stress
+28,Mirror_Image,1,4,8,High Stress
+28,Mirror_Image,1,5,8,High Stress
+28,Mirror_Image,2,1,7,High Stress
+28,Mirror_Image,2,2,7,High Stress
+28,Mirror_Image,2,3,7,High Stress
+28,Mirror_Image,2,4,7,High Stress
+28,Mirror_Image,2,5,7,High Stress
+28,Mirror_Image,3,1,5,Low Stress
+28,Mirror_Image,3,2,5,Low Stress
+28,Mirror_Image,3,3,5,Low Stress
+28,Mirror_Image,3,4,5,Low Stress
+28,Mirror_Image,3,5,5,Low Stress
+28,Arithmetic,1,1,7,High Stress
+28,Arithmetic,1,2,7,High Stress
+28,Arithmetic,1,3,7,High Stress
+28,Arithmetic,1,4,7,High Stress
+28,Arithmetic,1,5,7,High Stress
+28,Arithmetic,2,1,7,High Stress
+28,Arithmetic,2,2,7,High Stress
+28,Arithmetic,2,3,7,High Stress
+28,Arithmetic,2,4,7,High Stress
+28,Arithmetic,2,5,7,High Stress
+28,Arithmetic,3,1,6,Low Stress
+28,Arithmetic,3,2,6,Low Stress
+28,Arithmetic,3,3,6,Low Stress
+28,Arithmetic,3,4,6,Low Stress
+28,Arithmetic,3,5,6,Low Stress
+29,Relaxation,1,1,0,Relaxed
+29,Relaxation,1,2,0,Relaxed
+29,Relaxation,1,3,0,Relaxed
+29,Relaxation,1,4,0,Relaxed
+29,Relaxation,1,5,0,Relaxed
+29,Relaxation,2,1,0,Relaxed
+29,Relaxation,2,2,0,Relaxed
+29,Relaxation,2,3,0,Relaxed
+29,Relaxation,2,4,0,Relaxed
+29,Relaxation,2,5,0,Relaxed
+29,Relaxation,3,1,0,Relaxed
+29,Relaxation,3,2,0,Relaxed
+29,Relaxation,3,3,0,Relaxed
+29,Relaxation,3,4,0,Relaxed
+29,Relaxation,3,5,0,Relaxed
+29,Stroop,1,1,6,Low Stress
+29,Stroop,1,2,6,Low Stress
+29,Stroop,1,3,6,Low Stress
+29,Stroop,1,4,6,Low Stress
+29,Stroop,1,5,6,Low Stress
+29,Stroop,2,1,6,Low Stress
+29,Stroop,2,2,6,Low Stress
+29,Stroop,2,3,6,Low Stress
+29,Stroop,2,4,6,Low Stress
+29,Stroop,2,5,6,Low Stress
+29,Stroop,3,1,5,Low Stress
+29,Stroop,3,2,5,Low Stress
+29,Stroop,3,3,5,Low Stress
+29,Stroop,3,4,5,Low Stress
+29,Stroop,3,5,5,Low Stress
+29,Mirror_Image,1,1,7,High Stress
+29,Mirror_Image,1,2,7,High Stress
+29,Mirror_Image,1,3,7,High Stress
+29,Mirror_Image,1,4,7,High Stress
+29,Mirror_Image,1,5,7,High Stress
+29,Mirror_Image,2,1,7,High Stress
+29,Mirror_Image,2,2,7,High Stress
+29,Mirror_Image,2,3,7,High Stress
+29,Mirror_Image,2,4,7,High Stress
+29,Mirror_Image,2,5,7,High Stress
+29,Mirror_Image,3,1,6,Low Stress
+29,Mirror_Image,3,2,6,Low Stress
+29,Mirror_Image,3,3,6,Low Stress
+29,Mirror_Image,3,4,6,Low Stress
+29,Mirror_Image,3,5,6,Low Stress
+29,Arithmetic,1,1,6,Low Stress
+29,Arithmetic,1,2,6,Low Stress
+29,Arithmetic,1,3,6,Low Stress
+29,Arithmetic,1,4,6,Low Stress
+29,Arithmetic,1,5,6,Low Stress
+29,Arithmetic,2,1,8,High Stress
+29,Arithmetic,2,2,8,High Stress
+29,Arithmetic,2,3,8,High Stress
+29,Arithmetic,2,4,8,High Stress
+29,Arithmetic,2,5,8,High Stress
+29,Arithmetic,3,1,6,Low Stress
+29,Arithmetic,3,2,6,Low Stress
+29,Arithmetic,3,3,6,Low Stress
+29,Arithmetic,3,4,6,Low Stress
+29,Arithmetic,3,5,6,Low Stress
+30,Relaxation,1,1,0,Relaxed
+30,Relaxation,1,2,0,Relaxed
+30,Relaxation,1,3,0,Relaxed
+30,Relaxation,1,4,0,Relaxed
+30,Relaxation,1,5,0,Relaxed
+30,Relaxation,2,1,0,Relaxed
+30,Relaxation,2,2,0,Relaxed
+30,Relaxation,2,3,0,Relaxed
+30,Relaxation,2,4,0,Relaxed
+30,Relaxation,2,5,0,Relaxed
+30,Relaxation,3,1,0,Relaxed
+30,Relaxation,3,2,0,Relaxed
+30,Relaxation,3,3,0,Relaxed
+30,Relaxation,3,4,0,Relaxed
+30,Relaxation,3,5,0,Relaxed
+30,Stroop,1,1,5,Low Stress
+30,Stroop,1,2,5,Low Stress
+30,Stroop,1,3,5,Low Stress
+30,Stroop,1,4,5,Low Stress
+30,Stroop,1,5,5,Low Stress
+30,Stroop,2,1,5,Low Stress
+30,Stroop,2,2,5,Low Stress
+30,Stroop,2,3,5,Low Stress
+30,Stroop,2,4,5,Low Stress
+30,Stroop,2,5,5,Low Stress
+30,Stroop,3,1,4,Low Stress
+30,Stroop,3,2,4,Low Stress
+30,Stroop,3,3,4,Low Stress
+30,Stroop,3,4,4,Low Stress
+30,Stroop,3,5,4,Low Stress
+30,Mirror_Image,1,1,6,Low Stress
+30,Mirror_Image,1,2,6,Low Stress
+30,Mirror_Image,1,3,6,Low Stress
+30,Mirror_Image,1,4,6,Low Stress
+30,Mirror_Image,1,5,6,Low Stress
+30,Mirror_Image,2,1,6,Low Stress
+30,Mirror_Image,2,2,6,Low Stress
+30,Mirror_Image,2,3,6,Low Stress
+30,Mirror_Image,2,4,6,Low Stress
+30,Mirror_Image,2,5,6,Low Stress
+30,Mirror_Image,3,1,5,Low Stress
+30,Mirror_Image,3,2,5,Low Stress
+30,Mirror_Image,3,3,5,Low Stress
+30,Mirror_Image,3,4,5,Low Stress
+30,Mirror_Image,3,5,5,Low Stress
+30,Arithmetic,1,1,7,High Stress
+30,Arithmetic,1,2,7,High Stress
+30,Arithmetic,1,3,7,High Stress
+30,Arithmetic,1,4,7,High Stress
+30,Arithmetic,1,5,7,High Stress
+30,Arithmetic,2,1,8,High Stress
+30,Arithmetic,2,2,8,High Stress
+30,Arithmetic,2,3,8,High Stress
+30,Arithmetic,2,4,8,High Stress
+30,Arithmetic,2,5,8,High Stress
+30,Arithmetic,3,1,7,High Stress
+30,Arithmetic,3,2,7,High Stress
+30,Arithmetic,3,3,7,High Stress
+30,Arithmetic,3,4,7,High Stress
+30,Arithmetic,3,5,7,High Stress
+31,Relaxation,1,1,0,Relaxed
+31,Relaxation,1,2,0,Relaxed
+31,Relaxation,1,3,0,Relaxed
+31,Relaxation,1,4,0,Relaxed
+31,Relaxation,1,5,0,Relaxed
+31,Relaxation,2,1,0,Relaxed
+31,Relaxation,2,2,0,Relaxed
+31,Relaxation,2,3,0,Relaxed
+31,Relaxation,2,4,0,Relaxed
+31,Relaxation,2,5,0,Relaxed
+31,Relaxation,3,1,0,Relaxed
+31,Relaxation,3,2,0,Relaxed
+31,Relaxation,3,3,0,Relaxed
+31,Relaxation,3,4,0,Relaxed
+31,Relaxation,3,5,0,Relaxed
+31,Stroop,1,1,4,Low Stress
+31,Stroop,1,2,4,Low Stress
+31,Stroop,1,3,4,Low Stress
+31,Stroop,1,4,4,Low Stress
+31,Stroop,1,5,4,Low Stress
+31,Stroop,2,1,3,Relaxed
+31,Stroop,2,2,3,Relaxed
+31,Stroop,2,3,3,Relaxed
+31,Stroop,2,4,3,Relaxed
+31,Stroop,2,5,3,Relaxed
+31,Stroop,3,1,7,High Stress
+31,Stroop,3,2,7,High Stress
+31,Stroop,3,3,7,High Stress
+31,Stroop,3,4,7,High Stress
+31,Stroop,3,5,7,High Stress
+31,Mirror_Image,1,1,8,High Stress
+31,Mirror_Image,1,2,8,High Stress
+31,Mirror_Image,1,3,8,High Stress
+31,Mirror_Image,1,4,8,High Stress
+31,Mirror_Image,1,5,8,High Stress
+31,Mirror_Image,2,1,7,High Stress
+31,Mirror_Image,2,2,7,High Stress
+31,Mirror_Image,2,3,7,High Stress
+31,Mirror_Image,2,4,7,High Stress
+31,Mirror_Image,2,5,7,High Stress
+31,Mirror_Image,3,1,3,Relaxed
+31,Mirror_Image,3,2,3,Relaxed
+31,Mirror_Image,3,3,3,Relaxed
+31,Mirror_Image,3,4,3,Relaxed
+31,Mirror_Image,3,5,3,Relaxed
+31,Arithmetic,1,1,10,High Stress
+31,Arithmetic,1,2,10,High Stress
+31,Arithmetic,1,3,10,High Stress
+31,Arithmetic,1,4,10,High Stress
+31,Arithmetic,1,5,10,High Stress
+31,Arithmetic,2,1,9,High Stress
+31,Arithmetic,2,2,9,High Stress
+31,Arithmetic,2,3,9,High Stress
+31,Arithmetic,2,4,9,High Stress
+31,Arithmetic,2,5,9,High Stress
+31,Arithmetic,3,1,6,Low Stress
+31,Arithmetic,3,2,6,Low Stress
+31,Arithmetic,3,3,6,Low Stress
+31,Arithmetic,3,4,6,Low Stress
+31,Arithmetic,3,5,6,Low Stress
+32,Relaxation,1,1,0,Relaxed
+32,Relaxation,1,2,0,Relaxed
+32,Relaxation,1,3,0,Relaxed
+32,Relaxation,1,4,0,Relaxed
+32,Relaxation,1,5,0,Relaxed
+32,Relaxation,2,1,0,Relaxed
+32,Relaxation,2,2,0,Relaxed
+32,Relaxation,2,3,0,Relaxed
+32,Relaxation,2,4,0,Relaxed
+32,Relaxation,2,5,0,Relaxed
+32,Relaxation,3,1,0,Relaxed
+32,Relaxation,3,2,0,Relaxed
+32,Relaxation,3,3,0,Relaxed
+32,Relaxation,3,4,0,Relaxed
+32,Relaxation,3,5,0,Relaxed
+32,Stroop,1,1,1,Relaxed
+32,Stroop,1,2,1,Relaxed
+32,Stroop,1,3,1,Relaxed
+32,Stroop,1,4,1,Relaxed
+32,Stroop,1,5,1,Relaxed
+32,Stroop,2,1,1,Relaxed
+32,Stroop,2,2,1,Relaxed
+32,Stroop,2,3,1,Relaxed
+32,Stroop,2,4,1,Relaxed
+32,Stroop,2,5,1,Relaxed
+32,Stroop,3,1,3,Relaxed
+32,Stroop,3,2,3,Relaxed
+32,Stroop,3,3,3,Relaxed
+32,Stroop,3,4,3,Relaxed
+32,Stroop,3,5,3,Relaxed
+32,Mirror_Image,1,1,5,Low Stress
+32,Mirror_Image,1,2,5,Low Stress
+32,Mirror_Image,1,3,5,Low Stress
+32,Mirror_Image,1,4,5,Low Stress
+32,Mirror_Image,1,5,5,Low Stress
+32,Mirror_Image,2,1,2,Relaxed
+32,Mirror_Image,2,2,2,Relaxed
+32,Mirror_Image,2,3,2,Relaxed
+32,Mirror_Image,2,4,2,Relaxed
+32,Mirror_Image,2,5,2,Relaxed
+32,Mirror_Image,3,1,6,Low Stress
+32,Mirror_Image,3,2,6,Low Stress
+32,Mirror_Image,3,3,6,Low Stress
+32,Mirror_Image,3,4,6,Low Stress
+32,Mirror_Image,3,5,6,Low Stress
+32,Arithmetic,1,1,5,Low Stress
+32,Arithmetic,1,2,5,Low Stress
+32,Arithmetic,1,3,5,Low Stress
+32,Arithmetic,1,4,5,Low Stress
+32,Arithmetic,1,5,5,Low Stress
+32,Arithmetic,2,1,1,Relaxed
+32,Arithmetic,2,2,1,Relaxed
+32,Arithmetic,2,3,1,Relaxed
+32,Arithmetic,2,4,1,Relaxed
+32,Arithmetic,2,5,1,Relaxed
+32,Arithmetic,3,1,7,High Stress
+32,Arithmetic,3,2,7,High Stress
+32,Arithmetic,3,3,7,High Stress
+32,Arithmetic,3,4,7,High Stress
+32,Arithmetic,3,5,7,High Stress
+33,Relaxation,1,1,0,Relaxed
+33,Relaxation,1,2,0,Relaxed
+33,Relaxation,1,3,0,Relaxed
+33,Relaxation,1,4,0,Relaxed
+33,Relaxation,1,5,0,Relaxed
+33,Relaxation,2,1,0,Relaxed
+33,Relaxation,2,2,0,Relaxed
+33,Relaxation,2,3,0,Relaxed
+33,Relaxation,2,4,0,Relaxed
+33,Relaxation,2,5,0,Relaxed
+33,Relaxation,3,1,0,Relaxed
+33,Relaxation,3,2,0,Relaxed
+33,Relaxation,3,3,0,Relaxed
+33,Relaxation,3,4,0,Relaxed
+33,Relaxation,3,5,0,Relaxed
+33,Stroop,1,1,3,Relaxed
+33,Stroop,1,2,3,Relaxed
+33,Stroop,1,3,3,Relaxed
+33,Stroop,1,4,3,Relaxed
+33,Stroop,1,5,3,Relaxed
+33,Stroop,2,1,2,Relaxed
+33,Stroop,2,2,2,Relaxed
+33,Stroop,2,3,2,Relaxed
+33,Stroop,2,4,2,Relaxed
+33,Stroop,2,5,2,Relaxed
+33,Stroop,3,1,6,Low Stress
+33,Stroop,3,2,6,Low Stress
+33,Stroop,3,3,6,Low Stress
+33,Stroop,3,4,6,Low Stress
+33,Stroop,3,5,6,Low Stress
+33,Mirror_Image,1,1,4,Low Stress
+33,Mirror_Image,1,2,4,Low Stress
+33,Mirror_Image,1,3,4,Low Stress
+33,Mirror_Image,1,4,4,Low Stress
+33,Mirror_Image,1,5,4,Low Stress
+33,Mirror_Image,2,1,2,Relaxed
+33,Mirror_Image,2,2,2,Relaxed
+33,Mirror_Image,2,3,2,Relaxed
+33,Mirror_Image,2,4,2,Relaxed
+33,Mirror_Image,2,5,2,Relaxed
+33,Mirror_Image,3,1,3,Relaxed
+33,Mirror_Image,3,2,3,Relaxed
+33,Mirror_Image,3,3,3,Relaxed
+33,Mirror_Image,3,4,3,Relaxed
+33,Mirror_Image,3,5,3,Relaxed
+33,Arithmetic,1,1,5,Low Stress
+33,Arithmetic,1,2,5,Low Stress
+33,Arithmetic,1,3,5,Low Stress
+33,Arithmetic,1,4,5,Low Stress
+33,Arithmetic,1,5,5,Low Stress
+33,Arithmetic,2,1,3,Relaxed
+33,Arithmetic,2,2,3,Relaxed
+33,Arithmetic,2,3,3,Relaxed
+33,Arithmetic,2,4,3,Relaxed
+33,Arithmetic,2,5,3,Relaxed
+33,Arithmetic,3,1,8,High Stress
+33,Arithmetic,3,2,8,High Stress
+33,Arithmetic,3,3,8,High Stress
+33,Arithmetic,3,4,8,High Stress
+33,Arithmetic,3,5,8,High Stress
+34,Relaxation,1,1,0,Relaxed
+34,Relaxation,1,2,0,Relaxed
+34,Relaxation,1,3,0,Relaxed
+34,Relaxation,1,4,0,Relaxed
+34,Relaxation,1,5,0,Relaxed
+34,Relaxation,2,1,0,Relaxed
+34,Relaxation,2,2,0,Relaxed
+34,Relaxation,2,3,0,Relaxed
+34,Relaxation,2,4,0,Relaxed
+34,Relaxation,2,5,0,Relaxed
+34,Relaxation,3,1,0,Relaxed
+34,Relaxation,3,2,0,Relaxed
+34,Relaxation,3,3,0,Relaxed
+34,Relaxation,3,4,0,Relaxed
+34,Relaxation,3,5,0,Relaxed
+34,Stroop,1,1,1,Relaxed
+34,Stroop,1,2,1,Relaxed
+34,Stroop,1,3,1,Relaxed
+34,Stroop,1,4,1,Relaxed
+34,Stroop,1,5,1,Relaxed
+34,Stroop,2,1,1,Relaxed
+34,Stroop,2,2,1,Relaxed
+34,Stroop,2,3,1,Relaxed
+34,Stroop,2,4,1,Relaxed
+34,Stroop,2,5,1,Relaxed
+34,Stroop,3,1,3,Relaxed
+34,Stroop,3,2,3,Relaxed
+34,Stroop,3,3,3,Relaxed
+34,Stroop,3,4,3,Relaxed
+34,Stroop,3,5,3,Relaxed
+34,Mirror_Image,1,1,3,Relaxed
+34,Mirror_Image,1,2,3,Relaxed
+34,Mirror_Image,1,3,3,Relaxed
+34,Mirror_Image,1,4,3,Relaxed
+34,Mirror_Image,1,5,3,Relaxed
+34,Mirror_Image,2,1,1,Relaxed
+34,Mirror_Image,2,2,1,Relaxed
+34,Mirror_Image,2,3,1,Relaxed
+34,Mirror_Image,2,4,1,Relaxed
+34,Mirror_Image,2,5,1,Relaxed
+34,Mirror_Image,3,1,2,Relaxed
+34,Mirror_Image,3,2,2,Relaxed
+34,Mirror_Image,3,3,2,Relaxed
+34,Mirror_Image,3,4,2,Relaxed
+34,Mirror_Image,3,5,2,Relaxed
+34,Arithmetic,1,1,2,Relaxed
+34,Arithmetic,1,2,2,Relaxed
+34,Arithmetic,1,3,2,Relaxed
+34,Arithmetic,1,4,2,Relaxed
+34,Arithmetic,1,5,2,Relaxed
+34,Arithmetic,2,1,3,Relaxed
+34,Arithmetic,2,2,3,Relaxed
+34,Arithmetic,2,3,3,Relaxed
+34,Arithmetic,2,4,3,Relaxed
+34,Arithmetic,2,5,3,Relaxed
+34,Arithmetic,3,1,2,Relaxed
+34,Arithmetic,3,2,2,Relaxed
+34,Arithmetic,3,3,2,Relaxed
+34,Arithmetic,3,4,2,Relaxed
+34,Arithmetic,3,5,2,Relaxed
+35,Relaxation,1,1,0,Relaxed
+35,Relaxation,1,2,0,Relaxed
+35,Relaxation,1,3,0,Relaxed
+35,Relaxation,1,4,0,Relaxed
+35,Relaxation,1,5,0,Relaxed
+35,Relaxation,2,1,0,Relaxed
+35,Relaxation,2,2,0,Relaxed
+35,Relaxation,2,3,0,Relaxed
+35,Relaxation,2,4,0,Relaxed
+35,Relaxation,2,5,0,Relaxed
+35,Relaxation,3,1,0,Relaxed
+35,Relaxation,3,2,0,Relaxed
+35,Relaxation,3,3,0,Relaxed
+35,Relaxation,3,4,0,Relaxed
+35,Relaxation,3,5,0,Relaxed
+35,Stroop,1,1,1,Relaxed
+35,Stroop,1,2,1,Relaxed
+35,Stroop,1,3,1,Relaxed
+35,Stroop,1,4,1,Relaxed
+35,Stroop,1,5,1,Relaxed
+35,Stroop,2,1,1,Relaxed
+35,Stroop,2,2,1,Relaxed
+35,Stroop,2,3,1,Relaxed
+35,Stroop,2,4,1,Relaxed
+35,Stroop,2,5,1,Relaxed
+35,Stroop,3,1,5,Low Stress
+35,Stroop,3,2,5,Low Stress
+35,Stroop,3,3,5,Low Stress
+35,Stroop,3,4,5,Low Stress
+35,Stroop,3,5,5,Low Stress
+35,Mirror_Image,1,1,5,Low Stress
+35,Mirror_Image,1,2,5,Low Stress
+35,Mirror_Image,1,3,5,Low Stress
+35,Mirror_Image,1,4,5,Low Stress
+35,Mirror_Image,1,5,5,Low Stress
+35,Mirror_Image,2,1,2,Relaxed
+35,Mirror_Image,2,2,2,Relaxed
+35,Mirror_Image,2,3,2,Relaxed
+35,Mirror_Image,2,4,2,Relaxed
+35,Mirror_Image,2,5,2,Relaxed
+35,Mirror_Image,3,1,6,Low Stress
+35,Mirror_Image,3,2,6,Low Stress
+35,Mirror_Image,3,3,6,Low Stress
+35,Mirror_Image,3,4,6,Low Stress
+35,Mirror_Image,3,5,6,Low Stress
+35,Arithmetic,1,1,6,Low Stress
+35,Arithmetic,1,2,6,Low Stress
+35,Arithmetic,1,3,6,Low Stress
+35,Arithmetic,1,4,6,Low Stress
+35,Arithmetic,1,5,6,Low Stress
+35,Arithmetic,2,1,5,Low Stress
+35,Arithmetic,2,2,5,Low Stress
+35,Arithmetic,2,3,5,Low Stress
+35,Arithmetic,2,4,5,Low Stress
+35,Arithmetic,2,5,5,Low Stress
+35,Arithmetic,3,1,4,Low Stress
+35,Arithmetic,3,2,4,Low Stress
+35,Arithmetic,3,3,4,Low Stress
+35,Arithmetic,3,4,4,Low Stress
+35,Arithmetic,3,5,4,Low Stress
+36,Relaxation,1,1,0,Relaxed
+36,Relaxation,1,2,0,Relaxed
+36,Relaxation,1,3,0,Relaxed
+36,Relaxation,1,4,0,Relaxed
+36,Relaxation,1,5,0,Relaxed
+36,Relaxation,2,1,0,Relaxed
+36,Relaxation,2,2,0,Relaxed
+36,Relaxation,2,3,0,Relaxed
+36,Relaxation,2,4,0,Relaxed
+36,Relaxation,2,5,0,Relaxed
+36,Relaxation,3,1,0,Relaxed
+36,Relaxation,3,2,0,Relaxed
+36,Relaxation,3,3,0,Relaxed
+36,Relaxation,3,4,0,Relaxed
+36,Relaxation,3,5,0,Relaxed
+36,Stroop,1,1,6,Low Stress
+36,Stroop,1,2,6,Low Stress
+36,Stroop,1,3,6,Low Stress
+36,Stroop,1,4,6,Low Stress
+36,Stroop,1,5,6,Low Stress
+36,Stroop,2,1,3,Relaxed
+36,Stroop,2,2,3,Relaxed
+36,Stroop,2,3,3,Relaxed
+36,Stroop,2,4,3,Relaxed
+36,Stroop,2,5,3,Relaxed
+36,Stroop,3,1,5,Low Stress
+36,Stroop,3,2,5,Low Stress
+36,Stroop,3,3,5,Low Stress
+36,Stroop,3,4,5,Low Stress
+36,Stroop,3,5,5,Low Stress
+36,Mirror_Image,1,1,4,Low Stress
+36,Mirror_Image,1,2,4,Low Stress
+36,Mirror_Image,1,3,4,Low Stress
+36,Mirror_Image,1,4,4,Low Stress
+36,Mirror_Image,1,5,4,Low Stress
+36,Mirror_Image,2,1,4,Low Stress
+36,Mirror_Image,2,2,4,Low Stress
+36,Mirror_Image,2,3,4,Low Stress
+36,Mirror_Image,2,4,4,Low Stress
+36,Mirror_Image,2,5,4,Low Stress
+36,Mirror_Image,3,1,5,Low Stress
+36,Mirror_Image,3,2,5,Low Stress
+36,Mirror_Image,3,3,5,Low Stress
+36,Mirror_Image,3,4,5,Low Stress
+36,Mirror_Image,3,5,5,Low Stress
+36,Arithmetic,1,1,4,Low Stress
+36,Arithmetic,1,2,4,Low Stress
+36,Arithmetic,1,3,4,Low Stress
+36,Arithmetic,1,4,4,Low Stress
+36,Arithmetic,1,5,4,Low Stress
+36,Arithmetic,2,1,5,Low Stress
+36,Arithmetic,2,2,5,Low Stress
+36,Arithmetic,2,3,5,Low Stress
+36,Arithmetic,2,4,5,Low Stress
+36,Arithmetic,2,5,5,Low Stress
+36,Arithmetic,3,1,5,Low Stress
+36,Arithmetic,3,2,5,Low Stress
+36,Arithmetic,3,3,5,Low Stress
+36,Arithmetic,3,4,5,Low Stress
+36,Arithmetic,3,5,5,Low Stress
+37,Relaxation,1,1,0,Relaxed
+37,Relaxation,1,2,0,Relaxed
+37,Relaxation,1,3,0,Relaxed
+37,Relaxation,1,4,0,Relaxed
+37,Relaxation,1,5,0,Relaxed
+37,Relaxation,2,1,0,Relaxed
+37,Relaxation,2,2,0,Relaxed
+37,Relaxation,2,3,0,Relaxed
+37,Relaxation,2,4,0,Relaxed
+37,Relaxation,2,5,0,Relaxed
+37,Relaxation,3,1,0,Relaxed
+37,Relaxation,3,2,0,Relaxed
+37,Relaxation,3,3,0,Relaxed
+37,Relaxation,3,4,0,Relaxed
+37,Relaxation,3,5,0,Relaxed
+37,Stroop,1,1,4,Low Stress
+37,Stroop,1,2,4,Low Stress
+37,Stroop,1,3,4,Low Stress
+37,Stroop,1,4,4,Low Stress
+37,Stroop,1,5,4,Low Stress
+37,Stroop,2,1,2,Relaxed
+37,Stroop,2,2,2,Relaxed
+37,Stroop,2,3,2,Relaxed
+37,Stroop,2,4,2,Relaxed
+37,Stroop,2,5,2,Relaxed
+37,Stroop,3,1,6,Low Stress
+37,Stroop,3,2,6,Low Stress
+37,Stroop,3,3,6,Low Stress
+37,Stroop,3,4,6,Low Stress
+37,Stroop,3,5,6,Low Stress
+37,Mirror_Image,1,1,5,Low Stress
+37,Mirror_Image,1,2,5,Low Stress
+37,Mirror_Image,1,3,5,Low Stress
+37,Mirror_Image,1,4,5,Low Stress
+37,Mirror_Image,1,5,5,Low Stress
+37,Mirror_Image,2,1,3,Relaxed
+37,Mirror_Image,2,2,3,Relaxed
+37,Mirror_Image,2,3,3,Relaxed
+37,Mirror_Image,2,4,3,Relaxed
+37,Mirror_Image,2,5,3,Relaxed
+37,Mirror_Image,3,1,4,Low Stress
+37,Mirror_Image,3,2,4,Low Stress
+37,Mirror_Image,3,3,4,Low Stress
+37,Mirror_Image,3,4,4,Low Stress
+37,Mirror_Image,3,5,4,Low Stress
+37,Arithmetic,1,1,6,Low Stress
+37,Arithmetic,1,2,6,Low Stress
+37,Arithmetic,1,3,6,Low Stress
+37,Arithmetic,1,4,6,Low Stress
+37,Arithmetic,1,5,6,Low Stress
+37,Arithmetic,2,1,5,Low Stress
+37,Arithmetic,2,2,5,Low Stress
+37,Arithmetic,2,3,5,Low Stress
+37,Arithmetic,2,4,5,Low Stress
+37,Arithmetic,2,5,5,Low Stress
+37,Arithmetic,3,1,8,High Stress
+37,Arithmetic,3,2,8,High Stress
+37,Arithmetic,3,3,8,High Stress
+37,Arithmetic,3,4,8,High Stress
+37,Arithmetic,3,5,8,High Stress
+38,Relaxation,1,1,0,Relaxed
+38,Relaxation,1,2,0,Relaxed
+38,Relaxation,1,3,0,Relaxed
+38,Relaxation,1,4,0,Relaxed
+38,Relaxation,1,5,0,Relaxed
+38,Relaxation,2,1,0,Relaxed
+38,Relaxation,2,2,0,Relaxed
+38,Relaxation,2,3,0,Relaxed
+38,Relaxation,2,4,0,Relaxed
+38,Relaxation,2,5,0,Relaxed
+38,Relaxation,3,1,0,Relaxed
+38,Relaxation,3,2,0,Relaxed
+38,Relaxation,3,3,0,Relaxed
+38,Relaxation,3,4,0,Relaxed
+38,Relaxation,3,5,0,Relaxed
+38,Stroop,1,1,5,Low Stress
+38,Stroop,1,2,5,Low Stress
+38,Stroop,1,3,5,Low Stress
+38,Stroop,1,4,5,Low Stress
+38,Stroop,1,5,5,Low Stress
+38,Stroop,2,1,3,Relaxed
+38,Stroop,2,2,3,Relaxed
+38,Stroop,2,3,3,Relaxed
+38,Stroop,2,4,3,Relaxed
+38,Stroop,2,5,3,Relaxed
+38,Stroop,3,1,3,Relaxed
+38,Stroop,3,2,3,Relaxed
+38,Stroop,3,3,3,Relaxed
+38,Stroop,3,4,3,Relaxed
+38,Stroop,3,5,3,Relaxed
+38,Mirror_Image,1,1,4,Low Stress
+38,Mirror_Image,1,2,4,Low Stress
+38,Mirror_Image,1,3,4,Low Stress
+38,Mirror_Image,1,4,4,Low Stress
+38,Mirror_Image,1,5,4,Low Stress
+38,Mirror_Image,2,1,6,Low Stress
+38,Mirror_Image,2,2,6,Low Stress
+38,Mirror_Image,2,3,6,Low Stress
+38,Mirror_Image,2,4,6,Low Stress
+38,Mirror_Image,2,5,6,Low Stress
+38,Mirror_Image,3,1,5,Low Stress
+38,Mirror_Image,3,2,5,Low Stress
+38,Mirror_Image,3,3,5,Low Stress
+38,Mirror_Image,3,4,5,Low Stress
+38,Mirror_Image,3,5,5,Low Stress
+38,Arithmetic,1,1,6,Low Stress
+38,Arithmetic,1,2,6,Low Stress
+38,Arithmetic,1,3,6,Low Stress
+38,Arithmetic,1,4,6,Low Stress
+38,Arithmetic,1,5,6,Low Stress
+38,Arithmetic,2,1,5,Low Stress
+38,Arithmetic,2,2,5,Low Stress
+38,Arithmetic,2,3,5,Low Stress
+38,Arithmetic,2,4,5,Low Stress
+38,Arithmetic,2,5,5,Low Stress
+38,Arithmetic,3,1,4,Low Stress
+38,Arithmetic,3,2,4,Low Stress
+38,Arithmetic,3,3,4,Low Stress
+38,Arithmetic,3,4,4,Low Stress
+38,Arithmetic,3,5,4,Low Stress
+39,Relaxation,1,1,0,Relaxed
+39,Relaxation,1,2,0,Relaxed
+39,Relaxation,1,3,0,Relaxed
+39,Relaxation,1,4,0,Relaxed
+39,Relaxation,1,5,0,Relaxed
+39,Relaxation,2,1,0,Relaxed
+39,Relaxation,2,2,0,Relaxed
+39,Relaxation,2,3,0,Relaxed
+39,Relaxation,2,4,0,Relaxed
+39,Relaxation,2,5,0,Relaxed
+39,Relaxation,3,1,0,Relaxed
+39,Relaxation,3,2,0,Relaxed
+39,Relaxation,3,3,0,Relaxed
+39,Relaxation,3,4,0,Relaxed
+39,Relaxation,3,5,0,Relaxed
+39,Stroop,1,1,3,Relaxed
+39,Stroop,1,2,3,Relaxed
+39,Stroop,1,3,3,Relaxed
+39,Stroop,1,4,3,Relaxed
+39,Stroop,1,5,3,Relaxed
+39,Stroop,2,1,3,Relaxed
+39,Stroop,2,2,3,Relaxed
+39,Stroop,2,3,3,Relaxed
+39,Stroop,2,4,3,Relaxed
+39,Stroop,2,5,3,Relaxed
+39,Stroop,3,1,5,Low Stress
+39,Stroop,3,2,5,Low Stress
+39,Stroop,3,3,5,Low Stress
+39,Stroop,3,4,5,Low Stress
+39,Stroop,3,5,5,Low Stress
+39,Mirror_Image,1,1,4,Low Stress
+39,Mirror_Image,1,2,4,Low Stress
+39,Mirror_Image,1,3,4,Low Stress
+39,Mirror_Image,1,4,4,Low Stress
+39,Mirror_Image,1,5,4,Low Stress
+39,Mirror_Image,2,1,5,Low Stress
+39,Mirror_Image,2,2,5,Low Stress
+39,Mirror_Image,2,3,5,Low Stress
+39,Mirror_Image,2,4,5,Low Stress
+39,Mirror_Image,2,5,5,Low Stress
+39,Mirror_Image,3,1,3,Relaxed
+39,Mirror_Image,3,2,3,Relaxed
+39,Mirror_Image,3,3,3,Relaxed
+39,Mirror_Image,3,4,3,Relaxed
+39,Mirror_Image,3,5,3,Relaxed
+39,Arithmetic,1,1,6,Low Stress
+39,Arithmetic,1,2,6,Low Stress
+39,Arithmetic,1,3,6,Low Stress
+39,Arithmetic,1,4,6,Low Stress
+39,Arithmetic,1,5,6,Low Stress
+39,Arithmetic,2,1,5,Low Stress
+39,Arithmetic,2,2,5,Low Stress
+39,Arithmetic,2,3,5,Low Stress
+39,Arithmetic,2,4,5,Low Stress
+39,Arithmetic,2,5,5,Low Stress
+39,Arithmetic,3,1,6,Low Stress
+39,Arithmetic,3,2,6,Low Stress
+39,Arithmetic,3,3,6,Low Stress
+39,Arithmetic,3,4,6,Low Stress
+39,Arithmetic,3,5,6,Low Stress
+40,Relaxation,1,1,0,Relaxed
+40,Relaxation,1,2,0,Relaxed
+40,Relaxation,1,3,0,Relaxed
+40,Relaxation,1,4,0,Relaxed
+40,Relaxation,1,5,0,Relaxed
+40,Relaxation,2,1,0,Relaxed
+40,Relaxation,2,2,0,Relaxed
+40,Relaxation,2,3,0,Relaxed
+40,Relaxation,2,4,0,Relaxed
+40,Relaxation,2,5,0,Relaxed
+40,Relaxation,3,1,0,Relaxed
+40,Relaxation,3,2,0,Relaxed
+40,Relaxation,3,3,0,Relaxed
+40,Relaxation,3,4,0,Relaxed
+40,Relaxation,3,5,0,Relaxed
+40,Stroop,1,1,5,Low Stress
+40,Stroop,1,2,5,Low Stress
+40,Stroop,1,3,5,Low Stress
+40,Stroop,1,4,5,Low Stress
+40,Stroop,1,5,5,Low Stress
+40,Stroop,2,1,5,Low Stress
+40,Stroop,2,2,5,Low Stress
+40,Stroop,2,3,5,Low Stress
+40,Stroop,2,4,5,Low Stress
+40,Stroop,2,5,5,Low Stress
+40,Stroop,3,1,3,Relaxed
+40,Stroop,3,2,3,Relaxed
+40,Stroop,3,3,3,Relaxed
+40,Stroop,3,4,3,Relaxed
+40,Stroop,3,5,3,Relaxed
+40,Mirror_Image,1,1,5,Low Stress
+40,Mirror_Image,1,2,5,Low Stress
+40,Mirror_Image,1,3,5,Low Stress
+40,Mirror_Image,1,4,5,Low Stress
+40,Mirror_Image,1,5,5,Low Stress
+40,Mirror_Image,2,1,6,Low Stress
+40,Mirror_Image,2,2,6,Low Stress
+40,Mirror_Image,2,3,6,Low Stress
+40,Mirror_Image,2,4,6,Low Stress
+40,Mirror_Image,2,5,6,Low Stress
+40,Mirror_Image,3,1,4,Low Stress
+40,Mirror_Image,3,2,4,Low Stress
+40,Mirror_Image,3,3,4,Low Stress
+40,Mirror_Image,3,4,4,Low Stress
+40,Mirror_Image,3,5,4,Low Stress
+40,Arithmetic,1,1,3,Relaxed
+40,Arithmetic,1,2,3,Relaxed
+40,Arithmetic,1,3,3,Relaxed
+40,Arithmetic,1,4,3,Relaxed
+40,Arithmetic,1,5,3,Relaxed
+40,Arithmetic,2,1,4,Low Stress
+40,Arithmetic,2,2,4,Low Stress
+40,Arithmetic,2,3,4,Low Stress
+40,Arithmetic,2,4,4,Low Stress
+40,Arithmetic,2,5,4,Low Stress
+40,Arithmetic,3,1,4,Low Stress
+40,Arithmetic,3,2,4,Low Stress
+40,Arithmetic,3,3,4,Low Stress
+40,Arithmetic,3,4,4,Low Stress
+40,Arithmetic,3,5,4,Low Stress
