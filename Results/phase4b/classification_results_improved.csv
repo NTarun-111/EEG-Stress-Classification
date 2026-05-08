@@ -1,0 +1,7 @@
+Task,Classifier,Accuracy,Precision,Recall,F1-Score,Time (s)
+Binary,SVM (tuned),0.5813,0.5960,0.6860,0.6378,9.3
+Binary,Random Forest (tuned),0.5808,0.5921,0.7078,0.6448,25.6
+Binary,KNN (tuned),0.5537,0.5801,0.6147,0.5969,1.2
+3-Class,SVM (tuned),0.4363,0.4385,0.4363,0.4373,11.3
+3-Class,Random Forest (tuned),0.4425,0.4122,0.4425,0.4235,25.6
+3-Class,KNN (tuned),0.4338,0.4122,0.4338,0.4214,1.2

@@ -1,0 +1,15 @@
+TUNED HYPERPARAMETERS
+==================================================
+
+Binary Classification:
+  SVM: {'C': 0.1, 'gamma': 'scale'}
+  RF:  {'n_estimators': 200, 'max_depth': 10}
+  KNN: {'k': 7}
+
+3-Class Classification:
+  SVM: {'C': 10.0, 'gamma': 'scale'}
+  RF:  {'n_estimators': 200, 'max_depth': 10}
+  KNN: {'k': 7}
+
+Feature selection: top 80 features (ANOVA F-test)
+Class weighting: balanced (for SVM and RF)
