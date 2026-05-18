@@ -210,6 +210,7 @@ def train_model(
     patience=7,
     device="cpu",
     verbose=True,
+    criterion=None,   # NEW: pass in a custom loss (e.g. class-weighted) if needed
 ):
     """
     Train a PyTorch classifier with early stopping on validation loss.
@@ -232,6 +233,9 @@ def train_model(
         Where to run training. CPU only on this machine.
     verbose : bool
         Print per-epoch progress.
+    criterion : nn.Module or None
+        Loss function. If None, defaults to plain CrossEntropyLoss.
+        Pass `nn.CrossEntropyLoss(weight=...)` to handle class imbalance.
 
     Returns
     -------
@@ -240,7 +244,10 @@ def train_model(
     history : dict
         Per-epoch lists: 'train_loss', 'val_loss', 'val_acc'.
     """
-    criterion = nn.CrossEntropyLoss()
+    
+    if criterion is None:
+        criterion = nn.CrossEntropyLoss()
+
     optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
 
     best_val_loss = float("inf")
@@ -263,7 +270,7 @@ def train_model(
             train_n += X_batch.size(0)
         train_loss = train_loss_sum / train_n
 
-        # ---------- Validation pass (no gradients) ----------
+        # ---------- Validation pass ----------
         model.eval()
         val_loss_sum, val_correct, val_n = 0.0, 0, 0
         with torch.no_grad():
