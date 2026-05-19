@@ -1,0 +1,90 @@
+{
+  "model": "EEGNet-8,2",
+  "n_params": 2258,
+  "training_time_sec": 82.81020998954773,
+  "n_epochs_trained": 18,
+  "test_accuracy": 0.5166666666666667,
+  "test_f1": 0.46296296296296297,
+  "test_f1_macro": 0.5117845117845118,
+  "majority_baseline": 0.6041666666666666,
+  "predicted_stress_rate": 0.5041666666666667,
+  "best_val_acc": 0.5666666666666667,
+  "best_val_loss": 0.6878483295440674,
+  "confusion_matrix": [
+    [
+      74,
+      71
+    ],
+    [
+      45,
+      50
+    ]
+  ],
+  "split_subjects": {
+    "train": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      35,
+      36,
+      37,
+      38,
+      40
+    ],
+    "val": [
+      3,
+      13,
+      15,
+      39
+    ],
+    "test": [
+      2,
+      9,
+      14,
+      34
+    ]
+  },
+  "hyperparameters": {
+    "F1": 8,
+    "D": 2,
+    "F2": 16,
+    "kernel_length": 64,
+    "dropout": 0.5,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "max_epochs": 80,
+    "patience": 15,
+    "monitor": "val_acc",
+    "class_weighted_loss": true
+  },
+  "comparison": {
+    "phase4b_rf_loso": 0.587,
+    "phase5_1_simple": 0.4833,
+    "phase5_1b_simple_v2": 0.55,
+    "phase5_2_eegnet": 0.5166666666666667
+  }
+}

@@ -16,6 +16,13 @@ Import in every phase5_x script:
         EEGDataset, train_model, evaluate_model,
         count_parameters, PHASE5_DIR, SEED
     )
+
+----- Change Log -----
+    v1: initial version with plain CrossEntropyLoss.
+    v2: train_model accepts optional `criterion` (for class-weighted loss).
+    v3: train_model accepts `monitor='val_loss'|'val_acc'` so we can checkpoint by best accuracy, 
+        which decouples from loss when using class-weighted training.
+
 """
 
 import os
@@ -210,7 +217,8 @@ def train_model(
     patience=7,
     device="cpu",
     verbose=True,
-    criterion=None,   # NEW: pass in a custom loss (e.g. class-weighted) if needed
+    criterion=None,   # NEW at v2: pass in a custom loss (e.g. class-weighted) if needed
+    monitor="val_loss",   # NEW at v3: 'val_loss' or 'val_acc'
 ):
     """
     Train a PyTorch classifier with early stopping on validation loss.
@@ -236,6 +244,12 @@ def train_model(
     criterion : nn.Module or None
         Loss function. If None, defaults to plain CrossEntropyLoss.
         Pass `nn.CrossEntropyLoss(weight=...)` to handle class imbalance.
+    monitor : 'val_loss' or 'val_acc'
+        Which metric to use for early stopping AND best-checkpoint selection.
+        - 'val_loss' (default): save lower-is-better. Standard choice.
+        - 'val_acc': save higher-is-better. Useful when class-weighted loss
+          and accuracy diverge — loss can rise even as accuracy improves
+          because the weighted loss penalizes minority-class mistakes harder.
 
     Returns
     -------
@@ -247,14 +261,23 @@ def train_model(
     
     if criterion is None:
         criterion = nn.CrossEntropyLoss()
-
+ 
     optimizer = torch.optim.Adam(model.parameters(), lr=lr, weight_decay=weight_decay)
-
-    best_val_loss = float("inf")
+ 
+    # Set up the direction of "better" based on what we're monitoring
+    if monitor == "val_loss":
+        best_metric = float("inf")
+        better = lambda new, best: new < best   # lower is better
+    elif monitor == "val_acc":
+        best_metric = -float("inf")
+        better = lambda new, best: new > best   # higher is better
+    else:
+        raise ValueError(f"monitor must be 'val_loss' or 'val_acc', got {monitor!r}")
+ 
     best_state = None
     epochs_no_improve = 0
     history = {"train_loss": [], "val_loss": [], "val_acc": []}
-
+ 
     for epoch in range(1, n_epochs + 1):
         # ---------- Training pass ----------
         model.train()
@@ -262,14 +285,14 @@ def train_model(
         for X_batch, y_batch in train_loader:
             X_batch, y_batch = X_batch.to(device), y_batch.to(device)
             optimizer.zero_grad()
-            logits = model(X_batch)               # forward pass
-            loss = criterion(logits, y_batch)     # cross-entropy
-            loss.backward()                       # backprop gradients
-            optimizer.step()                      # update weights
+            logits = model(X_batch)
+            loss = criterion(logits, y_batch)
+            loss.backward()
+            optimizer.step()
             train_loss_sum += loss.item() * X_batch.size(0)
             train_n += X_batch.size(0)
         train_loss = train_loss_sum / train_n
-
+ 
         # ---------- Validation pass ----------
         model.eval()
         val_loss_sum, val_correct, val_n = 0.0, 0, 0
@@ -283,33 +306,34 @@ def train_model(
                 val_n        += X_batch.size(0)
         val_loss = val_loss_sum / val_n
         val_acc  = val_correct / val_n
-
+ 
         history["train_loss"].append(train_loss)
         history["val_loss"].append(val_loss)
         history["val_acc"].append(val_acc)
-
+ 
+        # Mark the monitored metric with an asterisk in the log
+        monitored_marker = {"val_loss": "←", "val_acc": "←"}.get(monitor, "")
         if verbose:
             print(
                 f"  Epoch {epoch:3d} | "
                 f"train_loss {train_loss:.4f} | "
-                f"val_loss {val_loss:.4f} | "
-                f"val_acc {val_acc:.4f}"
+                f"val_loss {val_loss:.4f}{' ' + monitored_marker if monitor == 'val_loss' else ''} | "
+                f"val_acc {val_acc:.4f}{' ' + monitored_marker if monitor == 'val_acc' else ''}"
             )
-
-        # ---------- Early stopping logic ----------
-        if val_loss < best_val_loss:
-            best_val_loss = val_loss
-            # detach + clone so the saved tensors aren't tied to live params
+ 
+        # ---------- Checkpoint + early stopping ----------
+        current_metric = val_loss if monitor == "val_loss" else val_acc
+        if better(current_metric, best_metric):
+            best_metric = current_metric
             best_state = {k: v.detach().clone() for k, v in model.state_dict().items()}
             epochs_no_improve = 0
         else:
             epochs_no_improve += 1
             if epochs_no_improve >= patience:
                 if verbose:
-                    print(f"  Early stopping at epoch {epoch} "
-                          f"(no improvement for {patience} epochs).")
+                    print(f"  Early stopping at epoch {epoch} "f"(no improvement in {monitor} for {patience} epochs).")
                 break
-
+ 
     return best_state, history
 
 
