@@ -1,0 +1,46 @@
+{
+  "phase": "5.4 LOSO",
+  "architecture": "SimpleEEGCNNv2",
+  "n_folds": 40,
+  "n_params": 2318,
+  "total_time_min": 43.45232819318771,
+  "hyperparameters": {
+    "n_temporal": 4,
+    "n_spatial": 8,
+    "dropout": 0.6,
+    "n_epochs": 12,
+    "lr": 0.0005,
+    "weight_decay": 0.001,
+    "batch_size": 64
+  },
+  "aggregate": {
+    "accuracy_mean": 0.5525,
+    "accuracy_std": 0.11817771457522024,
+    "accuracy_min": 0.3,
+    "accuracy_max": 0.75,
+    "accuracy_median": 0.575,
+    "f1_mean": 0.6017651601710357,
+    "f1_macro_mean": 0.500054517039325,
+    "global_accuracy_pooled": 0.5525,
+    "subjects_above_phase4b": 18,
+    "subjects_above_majority": 14
+  },
+  "global_confusion_matrix": [
+    [
+      413,
+      697
+    ],
+    [
+      377,
+      913
+    ]
+  ],
+  "comparison": {
+    "Phase 4B RF (LOSO)": 0.587,
+    "Phase 5.1  Simple CNN": 0.4833,
+    "Phase 5.1b Simple CNN v2 (held-out)": 0.55,
+    "Phase 5.2  EEGNet (held-out)": 0.5167,
+    "Phase 5.2b EEGNet + max-norm": 0.525,
+    "Phase 5.4  Simple CNN v2 LOSO": 0.5525
+  }
+}
