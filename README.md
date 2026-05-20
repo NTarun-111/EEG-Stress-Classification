@@ -4,6 +4,8 @@ End-to-end machine learning pipeline that classifies cognitive stress from raw E
 
 The headline finding isn't a big accuracy number — it's that, when evaluated honestly across unseen subjects, **traditional ML with hand-crafted features (0.587) outperformed every deep learning variant tried, including the standard EEGNet (0.552 in the best DL configuration)**. That result is consistent with a growing body of recent EEG literature on small, multi-subject datasets and is, I think, the most interesting thing in this project.
 
+For a detailed walkthrough of methodology, design decisions, diagnostics, and findings — read the **[Technical Report (PDF)](Report/TECHNICAL_REPORT.pdf)** ([Markdown source](Report/TECHNICAL_REPORT.md)).
+
 ![Final model comparison](Results/phase5/phase5_4_loso/final_comparison.png)
 
 ---
@@ -248,6 +250,9 @@ EEG-Stress-Classification/
 │   ├── Phase5_2b_EEGNet_MaxNorm.ipynb # Phase 5.2b
 │   ├── Phase5_4_LOSO.ipynb            # Phase 5.4 — final LOSO
 │   └── phase5_utils.py                # shared utilities (imported by all 5.x)
+├── Report/
+│   ├── TECHNICAL_REPORT.pdf           # full technical report (recommended read)
+│   └── TECHNICAL_REPORT.md            # markdown source
 ├── Results/
 │   ├── phase1/                        # raw signal plots, stress label CSV
 │   ├── phase2/                        # PSD plots, preprocessed segments, segment labels
@@ -301,6 +306,8 @@ A 0.55 LOSO accuracy on this kind of task with 40 subjects is in the normal rang
 - Lawhern, V. J., et al. (2018). *EEGNet: A compact convolutional neural network for EEG-based brain-computer interfaces*. Journal of Neural Engineering. [arXiv:1611.08024](https://arxiv.org/abs/1611.08024)
 - Roy, Y., et al. (2019). *Deep learning-based electroencephalography analysis: a systematic review*. Journal of Neural Engineering.
 - Craik, A., He, Y., & Contreras-Vidal, J. L. (2019). *Deep learning for electroencephalogram (EEG) classification tasks: a review*. Journal of Neural Engineering.
+
+For a more comprehensive reference list, see the [Technical Report](Report/TECHNICAL_REPORT.pdf).
 
 ---
 
